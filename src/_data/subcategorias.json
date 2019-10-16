@@ -1,297 +1,194 @@
-{
-    "marcas": [
-        {
-
+[
+    {
         "nombre": "Gucci",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0101"
-        
-        },
-        
-        {
-        
+    },
+    {
         "nombre": "Off-White",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0102"
-        
-        },
-        
-        {
-        
+    },
+    {
         "nombre": "Balenciaga",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0103"
-        
-        },
-        
-        {
-        
+    },
+    {
         "nombre": "Stone Island",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0104"
-        
-        },
-        
-        {
-        
+    },
+    {
         "nombre": "Heron Preston",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0105"
-        
-        },
-        
-        {
-        
+    },
+    {
         "nombre": "Palm Angels",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0106"
-        
-        },
-        
-        {
-        
+    },
+    {
         "nombre": "GUESS",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0107"
-        
-        },
-        
-        {
-        
+    },
+    {
         "nombre": "Ralph Lauren",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0108"
-        
-        },
-        
-        {
-        
+    },
+    {
         "nombre": "Versace",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0109"
-        
-        },
-        
-        {
-        
+    },
+    {
         "nombre": "The North Face",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0110"
-        
-        },
-        
-        {
-        
+    },
+    {
         "nombre": "FENDI",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0111"
-        
-        },
-        
-        {
-        
+    },
+    {
         "nombre": "Kappa",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0112"
-        
-        },
-        
-        {
-        
+    },
+    {
         "nombre": "Vans",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0113"
-        
-        },
-        
-        {
-        
+    },
+    {
         "nombre": "Nike",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0114"
-        
-        },
-        
-        {
-        
+    },
+    {
         "nombre": "Adidas",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0115"
-        
-        }
-        
-        
-                ],
-    "sneakers": [
-        {
-
-            "nombre": "Altas",
-            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-            "img": "http://ximg.es/250x250/000/fff",
-            "id": "0201"
-            
-            },
-            
-            {
-            
-            "nombre": "Deportivas",
-            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-            "img": "http://ximg.es/250x250/000/fff",
-            "id": "0202"
-            
-            },
-            
-            {
-            
-            "nombre": "Retro",
-            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-            "img": "http://ximg.es/250x250/000/fff",
-            "id": "0203"
-            
-            },
-            
-            {
-            
-            "nombre": "Basket",
-            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-            "img": "http://ximg.es/250x250/000/fff",
-            "id": "0204"
-            
-            }
-    ],            
-    "ropa": [
+    },
     {
-
+        "nombre": "Altas",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "0201"
+    },
+    {
+        "nombre": "Deportivas",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "0202"
+    },
+    {
+        "nombre": "Retro",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "0203"
+    },
+    {
+        "nombre": "Basket",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "0204"
+    },
+    {
         "nombre": "Camisetas",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0301"
-        
-        },
-        
-        {
-        
+    },
+    {
         "nombre": "Sudaderas",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0302"
-        
-        },
-        
-        {
-        
+    },
+    {
         "nombre": "Pantalones",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0303"
-        
-        },
-        
-        {
-        
+    },
+    {
         "nombre": "Abrigos",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0304"
-        
-        },
-        
-        {
-        
+    },
+    {
         "nombre": "Calcetines",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0305"
-        
-        }
-                ],
-    "complementos": [
-        {
-
-            "nombre": "Riñoneras",
-            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-            "img": "http://ximg.es/250x250/000/fff",
-            "id": "0401"
-            
-            },
-            
-            {
-            
-            "nombre": "Gorras-Hypebeast",
-            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-            "img": "http://ximg.es/250x250/000/fff",
-            "id": "0401"
-            
-            },
-            
-            {
-            
-            "nombre": "Bolsos",
-            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-            "img": "http://ximg.es/250x250/000/fff",
-            "id": "0401"
-            
-            },
-            
-            {
-            
-            "nombre": "Cinturones",
-            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-            "img": "http://ximg.es/250x250/000/fff",
-            "id": "0401"
-            
-            },
-            
-            {
-            
-            "nombre": "Relojes",
-            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-            "img": "http://ximg.es/250x250/000/fff",
-            "id": "0401"
-            
-            },
-            
-            {
-            
-            "nombre": "Mochilas",
-            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-            "img": "http://ximg.es/250x250/000/fff",
-            "id": "0401"
-            
-            },
-            
-            {
-            
-            "nombre": "Libros",
-            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-            "img": "http://ximg.es/250x250/000/fff",
-            "id": "0401"
-            
-            },
-            
-            {
-            
-            "nombre": "Guantes",
-            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-            "img": "http://ximg.es/250x250/000/fff",
-            "id": "0401"
-            
-            }
-
-    ]
-}
+    },
+    {
+        "nombre": "Riñoneras",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "0401"
+    },
+    {
+        "nombre": "Gorras-Hypebeast",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "0401"
+    },
+    {
+        "nombre": "Bolsos",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "0401"
+    },
+    {
+        "nombre": "Cinturones",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "0401"
+    },
+    {
+        "nombre": "Relojes",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "0401"
+    },
+    {
+        "nombre": "Mochilas",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "0401"
+    },
+    {
+        "nombre": "Libros",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "0401"
+    },
+    {
+        "nombre": "Guantes",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "0401"
+    }
+]

@@ -22,31 +22,15 @@ title: HypeBeast
         <div class="container">
             <div class="row">
 
-                        {% for subcategoria in subcategorias.marcas %}
+                        {% for subcategoria in subcategorias %}
+                        {% if (subcategoria.id.slice(0,2)) == "01" %}
                         <div class="col-12 col-md-6 col-lg-4 text-center">
                             <a href="{{ subcategoria.nombre | slug }}"><img src="http://ximg.es/250x250/000/fff" alt="marcas"></a>
                             <h2>{{subcategoria.nombre}}</h2>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?</p>
                         </div>
-     
+                        {% endif %}            
                         {% endfor %}
-
-
-
-            {# {% for categoria in data.categorias %}
-                {% if categoria.nombre == "Marcas Hypebeast" %}
-                    {% for subcategoria in categoria.subcategorias %}
-                        <div class="col-12 col-md-6 col-lg-4 text-center">
-                            <a href="marcas-hypebeast/{{ subcategoria | slug }}"><img src="http://ximg.es/250x250/000/fff" alt="marcas"></a>
-                            <h2>{{ subcategoria }}</h2>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?</p>
-                        </div>
-                    
-                    {% endfor %}
-                {% endif %}
-                
-            {% endfor %} #}
-
             </div>
         </div>
     </section>
@@ -81,9 +65,7 @@ title: HypeBeast
         <div class="row">
 
        {% for categoria in categorias %} 
-            {% if categoria.nombre == "Marcas HypeBeast" %}
-
-            {% else %}  
+            {% if categoria.nombre != "Marcas HypeBeast" %}
                 <div class="col-6 col-lg-4 text-center categoria">
                     <a href="/{{categoria.nombre | slug}}"><img src="http://ximg.es/150x150/000/fff" alt="marcas"></a>
                     <h2>{{categoria.nombre}}</h2>

@@ -18,14 +18,14 @@
                             <div class="collapse navbar-collapse text-center text-uppercase" id="navbarsExample11">
                                 <ul class="navbar-nav">
 
-                                        {% for categoria in data.categorias %}
+                                        {% for categoria in categorias %}
                                         <li class="nav-item dropdown">
-                                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                <a class="nav-link dropdown-toggle" href="/{{categoria.nombre | slug}}" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                     {{ categoria.nombre }}
                                                 </a>
                                                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                                    {% for subcategoria in categoria.subcategorias %}
-                                                    <a class="dropdown-item" href="#">{{ subcategoria }}</a>
+                                                    {% for subcategoria in subcategorias %}
+                                                    <a class="dropdown-item" href="/{{subcategoria.nombre | slug}}">{{ subcategoria.nombre }}</a>
                                                     {% endfor %}
                                                 </div>
                                             </li>

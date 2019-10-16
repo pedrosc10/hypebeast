@@ -1,0 +1,75 @@
+[
+    {
+        "nombre": "Camiseta Gucci",
+        "img": "http://ximg.es/250x250/000/fff",
+        "precio": 42.5,
+        "enlace": "enlace-amazon.com",
+        "marca": "gucci",
+        "id": "030101" 
+
+    },
+    {
+        "nombre": "Pantalón Gucci",
+        "img": "http://ximg.es/250x250/000/fff",
+        "precio": 42.5,
+        "enlace": "enlace-amazon.com",
+        "marca": "gucci",
+        "id": "030301"
+
+    },
+    {
+        "nombre": "Sudadera Off-White",
+        "img": "http://ximg.es/250x250/000/fff",
+        "precio": 42.5,
+        "enlace": "enlace-amazon.com",
+        "marca": "off-white",
+        "id": "030201"
+
+    },
+    {
+        "nombre": "Calcetin Off-White",
+        "img": "http://ximg.es/250x250/000/fff",
+        "precio": 42.5,
+        "enlace": "enlace-amazon.com",
+        "marca": "off-white",
+        "id": "030501"
+
+    },
+    {
+        "nombre": "Camiseta Nike",
+        "img": "http://ximg.es/250x250/000/fff",
+        "precio": 42.5,
+        "enlace": "enlace-amazon.com",
+        "marca": "nike",
+        "id": "030102"
+
+    },
+    {
+        "nombre": "Pantalones Nike",
+        "img": "http://ximg.es/250x250/000/fff",
+        "precio": 42.5,
+        "enlace": "enlace-amazon.com",
+        "marca": "nike",
+        "id": "030302"
+
+    },
+    {
+        "nombre": "Sneakers Adidas",
+        "img": "http://ximg.es/250x250/000/fff",
+        "precio": 42.5,
+        "enlace": "enlace-amazon.com",
+        "marca": "adidas",
+        "id": "020101"
+
+    },
+    {
+        "nombre": "Sneakers Vans",
+        "img": "http://ximg.es/250x250/000/fff",
+        "precio": 42.5,
+        "enlace": "enlace-amazon.com",
+        "marca": "vans",
+        "id": "020201"
+
+    }
+
+]
