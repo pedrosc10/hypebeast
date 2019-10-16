@@ -1,0 +1,46 @@
+---
+title: HypeBeast
+---
+
+{% extends "layouts/default.njk" %}
+
+{% block content %}
+	<section class="home-intro">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h1>Tienda Online Artículos HypeBeast</h1>
+                </div>
+                <div class="col text-center">
+                    <p>Lorem iipsum dolor sit amet consectetur adipisicing elit. Optio totam eos explicabo sunt, incidunt, perspiciatis eum magni dolorum porro nemo, inventore atque quibusdam fugit consequatur accusantium temporibus impedit dolor nihil dicta? Suscipit obcaecati itaque omnis praesentium corrupti doloremque temporibus iusto.</p>
+                </div>
+            </div>
+        </div>
+	</section>
+
+    <section class="categorias">
+        <div class="container">
+            <div class="row">
+                {% for categoria in categorias %}
+                    <div class="col-12 col-md-6 col-lg-6 text-center categoria">
+                        <a href="/{{ categoria.nombre | slug }}"><img src="{{ categoria.img }}" alt="{{ categoria.nombre }}"></a>
+                        <h2>{{ categoria.nombre }}</h2>
+                        <p>{{ categoria.descripcion }}</p>
+                    </div>                    
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+    <section class="texto-seo">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h1>Título SEO</h1>
+                </div>
+                <div class="col text-center">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio totam eos explicabo sunt, incidunt, perspiciatis eum magni dolorum porro nemo, inventore atque quibusdam fugit consequatur accusantium temporibus impedit dolor nihil dicta? Suscipit obcaecati itaque omnis praesentium corrupti doloremque temporibus iusto.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+{% endblock %}

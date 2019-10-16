@@ -1,0 +1,42 @@
+<section class="top">
+    <div class="containe-fluid">
+        <div class="row">
+            <div class="col text-center">
+                <div class="top-logo">
+                        <a href="/"><img src="http://ximg.es/330x45/000/fff" alt="Logo"></a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col text-center">
+                <div class="top-menu">
+                    <nav class="navbar navbar-expand-sm navbar-dark bg-dark" data-toggle="affix">
+                        <div class="mx-auto d-sm-flex d-block flex-sm-nowrap">
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample11" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                            <div class="collapse navbar-collapse text-center text-uppercase" id="navbarsExample11">
+                                <ul class="navbar-nav">
+
+                                        {% for categoria in data.categorias %}
+                                        <li class="nav-item dropdown">
+                                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                    {{ categoria.nombre }}
+                                                </a>
+                                                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                                    {% for subcategoria in categoria.subcategorias %}
+                                                    <a class="dropdown-item" href="#">{{ subcategoria }}</a>
+                                                    {% endfor %}
+                                                </div>
+                                            </li>
+                                        {% endfor %}
+       
+                                </ul>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

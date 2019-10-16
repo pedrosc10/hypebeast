@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Marcas HypeBeast",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "01"
+    },
+    {
+        "nombre": "Sneakers HypeBeast",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "02"
+    },
+    {
+        "nombre": "Ropa HypeBeast",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "03"
+    },
+    {
+        "nombre": "Complementos HypeBeast",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "04"
+    }
+]

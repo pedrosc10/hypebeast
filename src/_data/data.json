@@ -1,0 +1,64 @@
+{
+    "categorias": [
+        {
+        "nombre": "Marcas Hypebeast",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "subcategorias": [
+                "Gucci",
+                "Off-White",
+                "Balenciaga",
+                "Stone Island",
+                "Heron Preston",
+                "Palm Angels",
+                "GUESS",
+                "Ralph Lauren",
+                "Versace",
+                "The North Face",
+                "FENDI",
+                "Kappa",
+                "Vans",
+                "Nike",
+                "Adidas"
+            ]
+        },
+        {
+            "nombre": "Sneakers Hypebeast",
+            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+            "img": "http://ximg.es/250x250/000/fff",
+            "subcategorias": [
+                "Altas",
+                "Deportivas",
+                "Retro",
+                "Basket"
+            ]
+        },
+        {
+            "nombre": "Ropa Hypebeast",
+            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+            "img": "http://ximg.es/250x250/000/fff",
+            "subcategorias": [
+                "Camisetas",
+                "Sudaderas",
+                "Pantalones",
+                "Abrigos",
+                "Calcetines"
+            ]
+        },
+        {
+            "nombre": "Complementos Hypebeast",
+            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+            "img": "http://ximg.es/250x250/000/fff",
+            "subcategorias": [
+                "Riñoneras",
+                "Gorras-Hypebeast",
+                "Bolsos",
+                "Cinturones",
+                "Relojes",
+                "Mochilas",
+                "Libros",
+                "Guantes"
+            ]
+        }
+    ]
+}

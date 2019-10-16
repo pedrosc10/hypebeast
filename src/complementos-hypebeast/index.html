@@ -1,0 +1,96 @@
+---
+title: HypeBeast
+---
+
+{% extends "layouts/default.njk" %}
+
+{% block content %}
+    <section class="categorias-n2-intro">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h1>Complementos HypeBeast</h1>
+                </div>
+                <div class="col text-center">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio totam eos explicabo sunt, incidunt, perspiciatis eum magni dolorum porro nemo, inventore atque quibusdam fugit consequatur accusantium temporibus impedit dolor nihil dicta? Suscipit obcaecati itaque omnis praesentium corrupti doloremque temporibus iusto.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="categorias-n2">
+        <div class="container">
+            <div class="row">
+
+ {% for subcategoria in subcategorias.complementos %}
+                        <div class="col-12 col-md-6 col-lg-4 text-center">
+                            <a href="{{ subcategoria.nombre | slug }}"><img src="http://ximg.es/250x250/000/fff" alt="marcas"></a>
+                            <h2>{{subcategoria.nombre}}</h2>
+                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?</p>
+                        </div>
+     
+ {% endfor %}
+
+
+
+            {# {% for categoria in data.categorias %}
+                {% if categoria.nombre == "Marcas Hypebeast" %}
+                    {% for subcategoria in categoria.subcategorias %}
+                        <div class="col-12 col-md-6 col-lg-4 text-center">
+                            <a href="marcas-hypebeast/{{ subcategoria | slug }}"><img src="http://ximg.es/250x250/000/fff" alt="marcas"></a>
+                            <h2>{{ subcategoria }}</h2>
+                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?</p>
+                        </div>
+                    
+                    {% endfor %}
+                {% endif %}
+                
+            {% endfor %} #}
+
+            </div>
+        </div>
+    </section>
+
+    <section class="texto-seo">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h2>¿Que se diferencian estas marcas otras?</h2>
+                </div>
+                <div class="col text-center">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio totam eos explicabo sunt, incidunt, perspiciatis eum magni dolorum porro nemo, inventore atque quibusdam fugit consequatur accusantium temporibus impedit dolor nihil dicta? Suscipit obcaecati itaque omnis praesentium corrupti doloremque temporibus iusto.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h2>¿Porque no es recomendable comprar ropa falsa?</h2>
+                </div>
+                <div class="col text-center">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio totam eos explicabo sunt, incidunt, perspiciatis eum magni dolorum porro nemo, inventore atque quibusdam fugit consequatur accusantium temporibus impedit dolor nihil dicta? Suscipit obcaecati itaque omnis praesentium corrupti doloremque temporibus iusto.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="categorias">
+       <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h3>Mira también nuestros artículos HypeBeast</h3>
+            </div>
+        </div>
+        <div class="row">
+       {% for categoria in categorias %} 
+            {% if categoria.nombre == "Complementos HypeBeast" %}
+
+            {% else %}  
+                <div class="col-6 col-lg-4 text-center categoria">
+                    <a href="/{{categoria.nombre | slug}}"><img src="http://ximg.es/150x150/000/fff" alt="marcas"></a>
+                    <h2>{{categoria.nombre}}</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, quod.</p>
+                </div>
+            {% endif %}
+        {% endfor %}
+        </div>
+    </div> 
+    </section>
+{% endblock %}
