@@ -10,7 +10,7 @@ permalink: /{{ categoria.nombre | slug }}/index.html
 
 {% block content %}
 
-    <section class="categorias-n2-intro">
+    <section class="categorias-intro texto">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
@@ -30,7 +30,7 @@ permalink: /{{ categoria.nombre | slug }}/index.html
                         {% for subcategoria in subcategorias %}
                         {% if (subcategoria.id.slice(0,2)) == categoria.id %}
                         <div class="col-12 col-md-6 col-lg-4 text-center subcategoria">
-                            <a href="{{ subcategoria.nombre | slug }}"><img src="http://ximg.es/250x250/000/fff" alt="marcas"></a>
+                            <a href="/{{ subcategoria.nombre | slug }}"><img src="{{ subcategoria.img }}" alt="marcas"></a>
                             <h2>{{subcategoria.nombre}}</h2>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?</p>
                         </div>
@@ -40,7 +40,7 @@ permalink: /{{ categoria.nombre | slug }}/index.html
         </div>
     </section>
 
-    <section class="texto-seo">
+    <section class="texto texto-seo">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">

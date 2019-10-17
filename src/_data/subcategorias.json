@@ -2,14 +2,20 @@
     {
         "nombre": "Gucci",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/gucci-logo.jpg",
         "id": "0101"
     },
     {
         "nombre": "Off-White",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/off-white-logo.jpg",
         "id": "0102"
+    },
+    {
+        "nombre": "Nike",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/nike-logo.png",
+        "id": "0114"
     },
     {
         "nombre": "Balenciaga",
@@ -76,12 +82,6 @@
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0113"
-    },
-    {
-        "nombre": "Nike",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
-        "id": "0114"
     },
     {
         "nombre": "Adidas",
