@@ -4,8 +4,7 @@
         "img": "http://ximg.es/250x250/000/fff",
         "precio": 42.5,
         "enlace": "enlace-amazon.com",
-        "marca": "gucci",
-        "id": "030101" 
+        "subcategorias": [ "0101", "0301" ]
 
     },
     {
@@ -13,8 +12,7 @@
         "img": "http://ximg.es/250x250/000/fff",
         "precio": 42.5,
         "enlace": "enlace-amazon.com",
-        "marca": "gucci",
-        "id": "030301"
+        "subcategorias": [ "0101", "0301" ]
 
     },
     {
@@ -22,8 +20,7 @@
         "img": "http://ximg.es/250x250/000/fff",
         "precio": 42.5,
         "enlace": "enlace-amazon.com",
-        "marca": "off-white",
-        "id": "030201"
+        "subcategorias": [ "0101", "0301" ]
 
     },
     {
@@ -31,8 +28,7 @@
         "img": "http://ximg.es/250x250/000/fff",
         "precio": 42.5,
         "enlace": "enlace-amazon.com",
-        "marca": "off-white",
-        "id": "030501"
+        "subcategorias": [ "0101", "0301" ]
 
     },
     {
@@ -40,8 +36,7 @@
         "img": "http://ximg.es/250x250/000/fff",
         "precio": 42.5,
         "enlace": "enlace-amazon.com",
-        "marca": "nike",
-        "id": "030102"
+        "subcategorias": [ "0101"]
 
     },
     {
@@ -49,8 +44,7 @@
         "img": "http://ximg.es/250x250/000/fff",
         "precio": 42.5,
         "enlace": "enlace-amazon.com",
-        "marca": "nike",
-        "id": "030302"
+        "subcategorias": [ "0101"]
 
     },
     {
@@ -58,8 +52,7 @@
         "img": "http://ximg.es/250x250/000/fff",
         "precio": 42.5,
         "enlace": "enlace-amazon.com",
-        "marca": "adidas",
-        "id": "020101"
+        "subcategorias": [ "0101"]
 
     },
     {
@@ -67,8 +60,7 @@
         "img": "http://ximg.es/250x250/000/fff",
         "precio": 42.5,
         "enlace": "enlace-amazon.com",
-        "marca": "vans",
-        "id": "020201"
+        "subcategorias": [ "0101", "0301" ]
 
     }
 
