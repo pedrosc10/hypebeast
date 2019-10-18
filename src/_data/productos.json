@@ -1,9 +1,9 @@
 [
     {
         "nombre": "Camiseta Gucci",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81RWiqEYdpL._AC_UX695_.jpg",
         "precio": 42.5,
-        "enlace": "enlace-amazon.com",
+        "enlace": "https://amzn.to/32sx5to",
         "subcategorias": [ "0101", "0301" ]
 
     },

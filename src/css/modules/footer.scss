@@ -1,14 +1,18 @@
 .footer {
     margin-top: 30px;
     background-color: gray;
-    padding-top: 25px;
-    padding-bottom: 25px;
-
     a {
         text-decoration: none;
         color: white;
     }
     a:hover {
-        color:red;
+        color:rgb(94, 91, 91);
     }
+}
+.avisos {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.copyright {
+    padding-bottom: 10px;
 }

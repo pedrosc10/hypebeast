@@ -1,4 +1,15 @@
-.producto {
+.productos {
     padding-bottom: 30px;
     padding-top: 20px;
+}
+
+.producto {
+
+    img {
+        width: 100%;
+        height: 250px;
+        margin-bottom: 15px;
+
+        object-fit: contain;
+    }
 }

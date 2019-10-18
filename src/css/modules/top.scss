@@ -8,10 +8,9 @@
 
 
 .top-menu{
-    background-color: #C9C9C9;
-    .navbar-nav .nav-link{
-        color: purple;
-    }
+    background-color: rgba($color: #dcd0d0, $alpha: .5);
+    border-bottom: solid;
+    border-bottom-width: thin;
 }
 .top-logo {
     background: #FCBAD5;
