@@ -15,79 +15,79 @@
         "nombre": "Nike",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/nike-logo.png",
-        "id": "0114"
+        "id": "0103"
     },
     {
         "nombre": "Balenciaga",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
-        "id": "0103"
-    },
-    {
-        "nombre": "Stone Island",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/balenciaga-logo.jpg",
         "id": "0104"
-    },
-    {
-        "nombre": "Heron Preston",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
-        "id": "0105"
-    },
-    {
-        "nombre": "Palm Angels",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
-        "id": "0106"
     },
     {
         "nombre": "GUESS",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
-        "id": "0107"
-    },
-    {
-        "nombre": "Ralph Lauren",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
-        "id": "0108"
-    },
-    {
-        "nombre": "Versace",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
-        "id": "0109"
-    },
-    {
-        "nombre": "The North Face",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
-        "id": "0110"
-    },
-    {
-        "nombre": "FENDI",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
-        "id": "0111"
-    },
-    {
-        "nombre": "Kappa",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
-        "id": "0112"
+        "img": "/images/guess-logo.jpg",
+        "id": "0105"
     },
     {
         "nombre": "Vans",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/vans-logo.jpg",
         "id": "0113"
     },
     {
         "nombre": "Adidas",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/adidas-logo.jpg",
         "id": "0115"
+    },
+    {
+        "nombre": "Converse",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/converse-logo.jpg",
+        "id": "0106"
+    },
+    {
+        "nombre": "Versace",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/versace-logo.jpg",
+        "id": "0109"
+    },
+    {
+        "nombre": "Ralph Lauren",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/ralph-lauren-logo.jpg",
+        "id": "0108"
+    },
+    {
+        "nombre": "The North Face",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/the-north-face-logo.jpg",
+        "id": "0110"
+    },
+    {
+        "nombre": "FENDI",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/fendi-logo.jpg",
+        "id": "0111"
+    },
+    {
+        "nombre": "Kappa",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/kappa-logo.jpg",
+        "id": "0112"
+    },
+    {
+        "nombre": "Heron Preston",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/heron-preston-logo.jpg",
+        "id": "0107"
+    },
+    {
+        "nombre": "Palm Angels",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/palm-angels-logo.jpg",
+        "id": "0114"
     },
     {
         "nombre": "Altas",

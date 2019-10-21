@@ -16,6 +16,13 @@
 .categoria {
     padding-bottom: 30px;
     padding-top: 20px;
+    img {
+        width: 100%;
+        height: 250px;
+        margin-bottom: 15px;
+
+        object-fit: contain;
+    }
 }
 
 .categorias-n2-intro {
@@ -37,6 +44,13 @@
 .subcategoria {
     padding-bottom: 30px;
     padding-top: 20px;
+    img {
+        width: 100%;
+        height: 250px;
+        margin-bottom: 15px;
+
+        object-fit: contain;
+    }
 }
 .texto-seo {
     margin-top: 20px;
@@ -49,6 +63,18 @@
     p {
         margin-bottom: 60px;
     }
+}
+.marcoFoto {
+    overflow: hidden; /*esta propiedad evita que la imagen ocupe mas espacio que su contenedor*/
+    transition: all .4s ease;
+    height: 250px;
+    width: 250px;
+    overflow: hidden;
+}
+ 
+.marcoFoto img:hover {
+    transform:scale(1.5); /*cuando nos posicionamos sobre la imagen con esta propiedad aumentamos su escala y ademas la giramos*/
+    opacity:0.6;
 }
 @media only screen and (min-width: 992px) {
     .texto{
