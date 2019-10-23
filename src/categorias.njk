@@ -29,7 +29,7 @@ permalink: /{{ categoria.nombre | slug }}/index.html
                         {% for subcategoria in subcategorias %}
                         {% if (subcategoria.id.slice(0,2)) == categoria.id %}
                         <div class="col-12 col-md-6 col-lg-4 text-center subcategoria">
-                            <a href="/{{ subcategoria.nombre | slug }}"><img src="{{ subcategoria.img }}" alt="marcas"></a>
+                            <a href="/{{ categoria.nombre | slug }}/{{ subcategoria.nombre | slug }}"><img src="{{ subcategoria.img }}" alt="marcas"></a>
                             <h2>{{subcategoria.nombre}}</h2>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?</p>
                         </div>
@@ -66,16 +66,16 @@ permalink: /{{ categoria.nombre | slug }}/index.html
             </div>
         </div>
         <div class="row">
-
-            {% if categoria.nombre != "Marcas HypeBeasdsdst" %}
-       {% for categoria in categorias %} 
-                <div class="col-12 col-md-6 col-lg-4 text-center categoria">
-                    <a href="/{{categoria.nombre | slug}}"><img src="http://ximg.es/150x150/000/fff" alt="marcas"></a>
-                    <h2>{{categoria.nombre}}</h2>
-                </div>
-        {% endfor %}
-            {% endif %}
-    
+          
+            {% for item in categorias %} 
+                {% if item.nombre !=  categoria.nombre %}
+                <div class="col-12 col-md-6 col-lg-4 text-center categoria-footer">
+                    <a href="/{{item.nombre | slug}}"><img src="{{item.img}}" alt="marcas"></a>
+                    <h2>{{item.nombre}}</h2>
+                </div>                
+                {% endif %}
+            {% endfor %}
+               
         </div>
     </div> 
     </section>

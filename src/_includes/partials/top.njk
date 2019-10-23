@@ -26,7 +26,7 @@
                                                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                                     {% for subcategoria in subcategorias %}
                                                     {% if subcategoria.id.slice(0,2) == categoria.id %}
-                                                        <a class="dropdown-item" href="/{{subcategoria.nombre | slug}}">{{ subcategoria.nombre }}</a>
+                                                        <a class="dropdown-item" href="/{{categoria.nombre | slug}}/{{subcategoria.nombre | slug}}">{{ subcategoria.nombre }}</a>
                                                     {% endif %}
                                                     {% endfor %}
                                                 </div>

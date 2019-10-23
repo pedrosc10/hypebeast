@@ -33,160 +33,196 @@
         "nombre": "Vans",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/vans-logo.jpg",
-        "id": "0113"
+        "id": "0106"
     },
     {
         "nombre": "Adidas",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/adidas-logo.jpg",
-        "id": "0115"
+        "id": "0107"
     },
     {
-        "nombre": "Converse",
+        "nombre": "Stussy",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/converse-logo.jpg",
-        "id": "0106"
-    },
-    {
-        "nombre": "Versace",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/versace-logo.jpg",
-        "id": "0109"
-    },
-    {
-        "nombre": "Ralph Lauren",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/ralph-lauren-logo.jpg",
+        "img": "/images/stussy-logo.jpg",
         "id": "0108"
     },
     {
-        "nombre": "The North Face",
+        "nombre": "Patagonia",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/the-north-face-logo.jpg",
-        "id": "0110"
-    },
-    {
-        "nombre": "FENDI",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/fendi-logo.jpg",
-        "id": "0111"
+        "img": "/images/patagonia-logo.jpg",
+        "id": "0109"
     },
     {
         "nombre": "Kappa",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/kappa-logo.jpg",
+        "id": "0110"
+    },
+    {
+        "nombre": "Converse",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/converse-logo.jpg",
+        "id": "0111"
+    },
+    {
+        "nombre": "The North Face",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/the-north-face-logo.jpg",
         "id": "0112"
+    },
+    {
+        "nombre": "Ralph Lauren",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/ralph-lauren-logo.jpg",
+        "id": "0113"
+    },
+    {
+        "nombre": "Tommy Hilfiger",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/tommy-hilfiger-logo.jpg",
+        "id": "0114"
+    },
+    {
+        "nombre": "Versace",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/versace-logo.jpg",
+        "id": "0115"
+    },
+    {
+        "nombre": "FENDI",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/fendi-logo.jpg",
+        "id": "0116"
+    },
+    {
+        "nombre": "Kenzo",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/kenzo-logo.jpg",
+        "id": "0117"
+    },
+    {
+        "nombre": "HUF",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/huf-logo.jpg",
+        "id": "0118"
     },
     {
         "nombre": "Heron Preston",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/heron-preston-logo.jpg",
-        "id": "0107"
+        "id": "0119"
     },
     {
         "nombre": "Palm Angels",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/palm-angels-logo.jpg",
-        "id": "0114"
+        "id": "0120"
     },
     {
-        "nombre": "Altas",
+        "nombre": "Stone Island",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/stone-island-logo.jpg",
+        "id": "0121"
+    },
+    {
+        "nombre": "Altas Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0201"
     },
     {
-        "nombre": "Deportivas",
+        "nombre": "Deportivas Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0202"
     },
     {
-        "nombre": "Retro",
+        "nombre": "Retro Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0203"
     },
     {
-        "nombre": "Basket",
+        "nombre": "Basket Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0204"
     },
     {
-        "nombre": "Camisetas",
+        "nombre": "Camisetas Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0301"
     },
     {
-        "nombre": "Sudaderas",
+        "nombre": "Sudaderas Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0302"
     },
     {
-        "nombre": "Pantalones",
+        "nombre": "Pantalones Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0303"
     },
     {
-        "nombre": "Abrigos",
+        "nombre": "Abrigos Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0304"
     },
     {
-        "nombre": "Calcetines",
+        "nombre": "Calcetines Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0305"
     },
     {
-        "nombre": "Riñoneras",
+        "nombre": "Riñoneras Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0401"
     },
     {
-        "nombre": "Gorras-Hypebeast",
+        "nombre": "Gorras Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0401"
     },
     {
-        "nombre": "Bolsos",
+        "nombre": "Bolsos Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0401"
     },
     {
-        "nombre": "Cinturones",
+        "nombre": "Cinturones Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0401"
     },
     {
-        "nombre": "Relojes",
+        "nombre": "Relojes Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0401"
     },
     {
-        "nombre": "Mochilas",
+        "nombre": "Mochilas Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0401"
     },
     {
-        "nombre": "Libros",
+        "nombre": "Libros Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0401"
     },
     {
-        "nombre": "Guantes",
+        "nombre": "Guantes Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0401"

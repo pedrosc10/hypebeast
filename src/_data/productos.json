@@ -1,46 +1,46 @@
 [
     {
-        "nombre": "Camiseta Gucci",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/81RWiqEYdpL._AC_UX695_.jpg",
-        "precio": 42.5,
-        "enlace": "https://amzn.to/32sx5to",
-        "subcategorias": [ "0101", "0301" ]
+        "nombre": "Camiseta Patagonia",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/31r9C4FSXlL._AC_.jpg",
+        "precio": 38.79,
+        "enlace": "https://amzn.to/31GI0OS",
+        "subcategorias": [ "0109", "0301" ]
 
     },
     {
-        "nombre": "Pantalón Gucci",
-        "img": "http://ximg.es/250x250/000/fff",
-        "precio": 42.5,
-        "enlace": "enlace-amazon.com",
-        "subcategorias": [ "0101", "0301" ]
+        "nombre": "Camiseta Patagonia",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81-vwWgEdXL._AC_UX679_.jpg",
+        "precio": 33.53,
+        "enlace": "https://amzn.to/33P7A5Q",
+        "subcategorias": [ "0109", "0301" ]
 
     },
     {
-        "nombre": "Sudadera Off-White",
-        "img": "http://ximg.es/250x250/000/fff",
-        "precio": 42.5,
-        "enlace": "enlace-amazon.com",
-        "subcategorias": [ "0101", "0301" ]
-
-    },
-    {
-        "nombre": "Calcetin Off-White",
-        "img": "http://ximg.es/250x250/000/fff",
-        "precio": 42.5,
-        "enlace": "enlace-amazon.com",
-        "subcategorias": [ "0101", "0301" ]
+        "nombre": "Camiseta The North Face",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71RJAMdn2vL._AC_UX679_.jpg",
+        "precio": 17.95,
+        "enlace": "https://amzn.to/2pOf8a8",
+        "subcategorias": [ "0112", "0301" ]
 
     },
     {
         "nombre": "Camiseta Nike",
-        "img": "http://ximg.es/250x250/000/fff",
-        "precio": 42.5,
-        "enlace": "enlace-amazon.com",
-        "subcategorias": [ "0101"]
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71-8zC%2BXQ7L._AC_UY606_.jpg",
+        "precio": 22.95,
+        "enlace": "https://amzn.to/2W6E0pO",
+        "subcategorias": [ "0103", "0301" ]
 
     },
     {
-        "nombre": "Pantalones Nike",
+        "nombre": "Camiseta Stussy",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61zUY1dCfCL._AC_UX679_.jpg",
+        "precio": 83.80,
+        "enlace": "https://amzn.to/31GrJcM",
+        "subcategorias": [ "0109", "0301" ]
+
+    },
+    {
+        "nombre": "Sudadera Pepe Jeans",
         "img": "http://ximg.es/250x250/000/fff",
         "precio": 42.5,
         "enlace": "enlace-amazon.com",
@@ -60,7 +60,7 @@
         "img": "http://ximg.es/250x250/000/fff",
         "precio": 42.5,
         "enlace": "enlace-amazon.com",
-        "subcategorias": [ "0101", "0301" ]
+        "subcategorias": [ "0101", "0302" ]
 
     }
 

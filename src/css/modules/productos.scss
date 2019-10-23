@@ -13,3 +13,11 @@
         object-fit: contain;
     }
 }
+.comprar {
+    text-decoration: none;
+    color: black;
+    &:hover {
+    text-decoration: none;
+    color:white;
+    }
+}

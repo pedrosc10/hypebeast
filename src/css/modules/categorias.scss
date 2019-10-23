@@ -20,11 +20,31 @@
         width: 100%;
         height: 250px;
         margin-bottom: 15px;
-
         object-fit: contain;
+
+        &:hover {
+            transform: scale(1.1);
+            transition: all 500ms ease-out;
+            opacity: 0.5;
+        }
     }
 }
+.categoria-footer {
+    padding-bottom: 30px;
+    padding-top: 20px;
+    img {
+        width: 100%;
+        height: 150px;
+        margin-bottom: 15px;
+        object-fit: contain;
 
+        &:hover {
+            transform: scale(1.1);
+            transition: all 500ms ease-out;
+            opacity: 0.5;
+        }
+    }
+}
 .categorias-n2-intro {
     margin-top: 75px;
     margin-bottom: 20px;
@@ -39,6 +59,12 @@
     img {
         width: 250px;
         height: 250px;
+        object-fit: contain;
+        &:hover {
+            transform: scale(1.1);
+            transition: all 500ms ease-out;
+            opacity: 0.5;
+        }
     }
 }
 .subcategoria {
