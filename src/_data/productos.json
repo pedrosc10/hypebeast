@@ -48,11 +48,11 @@
 
     },
     {
-        "nombre": "Sneakers Adidas",
-        "img": "http://ximg.es/250x250/000/fff",
-        "precio": 42.5,
-        "enlace": "enlace-amazon.com",
-        "subcategorias": [ "0101"]
+        "nombre": "Converse Chuck Taylor",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/612Z534T3vL._AC_UX695_.jpg",
+        "precio": 48.52,
+        "enlace": "https://amzn.to/35XDPSt",
+        "subcategorias": [ "0111", "0202"]
 
     },
     {

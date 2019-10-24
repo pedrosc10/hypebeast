@@ -126,28 +126,34 @@
         "id": "0121"
     },
     {
-        "nombre": "Altas Hypebeast",
+        "nombre": "Corte Alto Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0201"
     },
     {
-        "nombre": "Deportivas Hypebeast",
+        "nombre": "Corte Bajo Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0202"
     },
     {
-        "nombre": "Retro Hypebeast",
+        "nombre": "Deportivas Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0203"
     },
     {
-        "nombre": "Basket Hypebeast",
+        "nombre": "Retro Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "0204"
+    },
+    {
+        "nombre": "Basket Hypebeast",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "0205"
     },
     {
         "nombre": "Camisetas Hypebeast",
