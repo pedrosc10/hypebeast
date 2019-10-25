@@ -3,7 +3,7 @@
         <div class="row m-0">
             <div class="col text-center p-0">
                 <div class="top-logo">
-                        <a href="/"><img src="/images/hypebeast.png" alt="Logo"></a>
+                        <a href="/"><img src="/images/hypebeast.jpg" alt="Logo"></a>
                 </div>
             </div>
         </div>
@@ -23,13 +23,13 @@
                                                 <a class="nav-link dropdown-toggle" href="/{{categoria.nombre | slug}}" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                     {{ categoria.nombre }}
                                                 </a>
-                                                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                                    {% for subcategoria in subcategorias %}
-                                                    {% if subcategoria.id.slice(0,2) == categoria.id %}
-                                                        <a class="dropdown-item" href="/{{categoria.nombre | slug}}/{{subcategoria.nombre | slug}}">{{ subcategoria.nombre }}</a>
-                                                    {% endif %}
-                                                    {% endfor %}
-                                                </div>
+                                                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                                        {% for subcategoria in subcategorias %}
+                                                        {% if subcategoria.id.slice(0,2) == categoria.id %}
+                                                            <li><a class="dropdown-item" href="/{{categoria.nombre | slug}}/{{subcategoria.nombre | slug}}">{{ subcategoria.nombre }}</a></li>
+                                                        {% endif %}
+                                                        {% endfor %}
+                                                </ul>
                                             </li>
                                         {% endfor %}
        

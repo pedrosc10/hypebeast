@@ -54,27 +54,27 @@
         "id": "0109"
     },
     {
-        "nombre": "Kappa",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/kappa-logo.jpg",
-        "id": "0110"
-    },
-    {
         "nombre": "Converse",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/converse-logo.jpg",
-        "id": "0111"
+        "id": "0110"
     },
     {
         "nombre": "The North Face",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/the-north-face-logo.jpg",
-        "id": "0112"
+        "id": "0111"
     },
     {
         "nombre": "Ralph Lauren",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/ralph-lauren-logo.jpg",
+        "id": "0112"
+    },
+    {
+        "nombre": "Lacoste",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/lacoste-logo.jpg",
         "id": "0113"
     },
     {
@@ -84,46 +84,64 @@
         "id": "0114"
     },
     {
+        "nombre": "HUF",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/huf-logo.jpg",
+        "id": "0115"
+    },
+    {
         "nombre": "Versace",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/versace-logo.jpg",
-        "id": "0115"
+        "id": "0116"
+    },
+    {
+        "nombre": "Kappa",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/kappa-logo.jpg",
+        "id": "0117"
+    },
+    {
+        "nombre": "Puma",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/puma-logo.jpg",
+        "id": "0118"
     },
     {
         "nombre": "FENDI",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/fendi-logo.jpg",
-        "id": "0116"
+        "id": "0119"
+    },
+    {
+        "nombre": "Le Coq Sportif",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "/images/le-coq-sportif-logo.jpg",
+        "id": "0120"
     },
     {
         "nombre": "Kenzo",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/kenzo-logo.jpg",
-        "id": "0117"
-    },
-    {
-        "nombre": "HUF",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/huf-logo.jpg",
-        "id": "0118"
+        "id": "0121"
     },
     {
         "nombre": "Heron Preston",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/heron-preston-logo.jpg",
-        "id": "0119"
+        "id": "0122"
     },
     {
         "nombre": "Palm Angels",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/palm-angels-logo.jpg",
-        "id": "0120"
+        "id": "0123"
     },
     {
         "nombre": "Stone Island",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/stone-island-logo.jpg",
-        "id": "0121"
+        "id": "0124"
     },
     {
         "nombre": "Corte Alto Hypebeast",
