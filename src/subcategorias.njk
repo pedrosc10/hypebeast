@@ -7,7 +7,24 @@ permalink: /{{ subcategoria.id | getCategoria | slug }}/{{ subcategoria.nombre |
 ---
 
 {% extends "layouts/default.njk" %}
+    {% block meta %}
+ 	<title>{{ subcategoria.nombre }}</title>
+	<meta name="description" content="En esta tienda encontrarás toda la ropa, zapatos y complementos Hypebeast.">
+	<meta name="keywords" content="">
 
+	<meta property="og:url" content="https://hypebeast.pro/{{ subcategoria.id | getCategoria | slug }}/{{ subcategoria.nombre | slug }}" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="{{ subcategoria.nombre }}" />
+	<meta property="og:description" content="{{ subcategoria.descripcion }}" />
+	<meta property="og:image" content="https://hypebeast.pro{{ subcategoria.img }}" />
+
+    <meta name="twitter:card"  content="summary">
+    <meta name="twitter:url" content="https://hypebeast.pro/{{ subcategoria.nombre | slug}}">
+    <meta name="twitter:title" content="{{ subcategoria.nombre }}">
+    <meta name="twitter:description" content="{{ subcategoria.descripcion }}">
+    <meta name="twitter:image" content="https://hypebeast.pro{{ subcategoria.img }}">
+        
+    {% endblock %}
 {% block content %}
     <section class="categorias-n2-intro">
         <div class="container">
@@ -45,7 +62,7 @@ permalink: /{{ subcategoria.id | getCategoria | slug }}/{{ subcategoria.nombre |
         </div>
     </section>
 
-    <section class="texto-seo">
+    {# <section class="texto-seo">
         <div class="container">
             <div class="row texto">
                 <div class="col-12 text-center">
@@ -64,7 +81,7 @@ permalink: /{{ subcategoria.id | getCategoria | slug }}/{{ subcategoria.nombre |
                 </div>
             </div>
         </div>
-    </section>
+    </section> #}
     <section class="categorias">
        <div class="container">
         <div class="row">

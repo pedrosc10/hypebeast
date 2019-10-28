@@ -7,7 +7,23 @@ permalink: /{{ categoria.nombre | slug }}/index.html
 ---
 
 {% extends "layouts/default.njk" %}
+{% block meta %}
+ 	<title>{{ categoria.nombre }}</title>
+	<meta name="description" content="En esta tienda encontrarás toda la ropa, zapatos y complementos Hypebeast.">
+	<meta name="keywords" content="">
 
+	<meta property="og:url" content="https://hypebeast.pro/{{ categoria.nombre | slug}}" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="{{ categoria.nombre }}" />
+	<meta property="og:description" content="{{ categoria.descripcion }}" />
+	<meta property="og:image" content="https://hypebeast.pro{{ categoria.img }}" />
+
+    <meta name="twitter:card"  content="summary">
+    <meta name="twitter:url" content="https://hypebeast.pro/{{ categoria.nombre | slug}}">
+    <meta name="twitter:title" content="{{ categoria.nombre }}">
+    <meta name="twitter:description" content="{{ categoria.descripcion }}">
+    <meta name="twitter:image" content="https://hypebeast.pro{{ categoria.img }}">
+{% endblock %}
 {% block content %}
 
     <section class="categorias-intro texto">
@@ -38,7 +54,7 @@ permalink: /{{ categoria.nombre | slug }}/index.html
         </div>
     </section>
 
-    <section class="texto texto-seo">
+    {# <section class="texto texto-seo">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
@@ -57,7 +73,7 @@ permalink: /{{ categoria.nombre | slug }}/index.html
                 </div>
             </div>
         </div>
-    </section>
+    </section> #}
     <section class="categorias">
        <div class="container">
         <div class="row">

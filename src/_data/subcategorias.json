@@ -213,42 +213,30 @@
         "nombre": "Gorras Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
-        "id": "0401"
+        "id": "0402"
+    },
+    {
+        "nombre": "Hypebeast Wallpaper",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "0403"
     },
     {
         "nombre": "Bolsos Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
-        "id": "0401"
-    },
-    {
-        "nombre": "Cinturones Hypebeast",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
-        "id": "0401"
-    },
-    {
-        "nombre": "Relojes Hypebeast",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
-        "id": "0401"
-    },
-    {
-        "nombre": "Mochilas Hypebeast",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
-        "id": "0401"
-    },
-    {
-        "nombre": "Libros Hypebeast",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
-        "id": "0401"
+        "id": "0404"
     },
     {
         "nombre": "Guantes Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "http://ximg.es/250x250/000/fff",
-        "id": "0401"
+        "id": "0405"
+    },
+    {
+        "nombre": "Mochilas Hypebeast",
+        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "img": "http://ximg.es/250x250/000/fff",
+        "id": "0406"
     }
 ]

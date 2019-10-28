@@ -14,10 +14,28 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-	<title>HypeBeast</title>
+	
+	{% block meta %}
 
-	<link rel="stylesheet" href="/css/main.css">
+ 	<title>Tienda Online de Articulos Hypebeast</title>
+	<meta name="description" content="En esta tienda encontrarás toda la ropa, zapatos y accesorios Hypebeast.">
+	<meta name="keywords" content="">
+
+	<meta property="og:url" content="https://hypebeast.pro/" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Tienda Online de Articulos Hypebeast" />
+	<meta property="og:description" content="En esta tienda encontrarás toda la ropa, zapatos y accesorios Hypebeast." />
+	<meta property="og:image" content="https://hypebeast.pro/images/hypebeast.jpg" />
+
+    <meta name="twitter:card"  content="summary">
+    <meta name="twitter:url" content="https://hypebeast.pro">
+    <meta name="twitter:title" content="Tienda Online de Articulos Hypebeast">
+    <meta name="twitter:description" content="En esta tienda encontrarás toda la ropa, zapatos y accesorios Hypebeast.">
+    <meta name="twitter:image" content="https://hypebeast.pro/images/hypebeast.jpg">
+
+	{% endblock %}
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" href="/css/main.css"
 </head>
 <body>
 	{% include "partials/top.njk" %}

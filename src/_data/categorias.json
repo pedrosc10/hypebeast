@@ -6,7 +6,7 @@
         "id": "01"
     },
     {
-        "nombre": "Sneakers HypeBeast",
+        "nombre": "Zapatillas HypeBeast",
         "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos aspernatur blanditiis ad, quod nulla repellendus iusto esse sit. Quae eos voluptates voluptatibus sint, tempore praesentium totam dicta tenetur cum cumque Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos aspernatur blanditiis ad.",
         "img": "/images/sneakers.jpg",
         "id": "02"
@@ -18,7 +18,7 @@
         "id": "03"
     },
     {
-        "nombre": "Complementos HypeBeast",
+        "nombre": "Accesorios HypeBeast",
         "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos aspernatur blanditiis ad, quod nulla repellendus iusto esse sit. Quae eos voluptates voluptatibus sint, tempore praesentium totam dicta tenetur cum cumque Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos aspernatur blanditiis ad.",
         "img": "http://ximg.es/250x250/000/fff",
         "id": "04"
