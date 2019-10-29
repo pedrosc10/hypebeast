@@ -146,97 +146,91 @@
     {
         "nombre": "Corte Alto Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/zapatillas-corte-alto-hypebeast.jpg",
         "id": "0201"
     },
     {
         "nombre": "Corte Bajo Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/zapatillas-corte-bajo-hypebeast.jpg",
         "id": "0202"
     },
     {
         "nombre": "Deportivas Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/zapatillas-deportivas-hypebeast.jpg",
         "id": "0203"
     },
     {
         "nombre": "Retro Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/zapatillas-retro-hypebeast.jpg",
         "id": "0204"
     },
     {
         "nombre": "Basket Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/zapatillas-basket-hypebeast.jpg",
         "id": "0205"
     },
     {
         "nombre": "Camisetas Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/camisetas-hypebeast.jpg",
         "id": "0301"
     },
     {
-        "nombre": "Sudaderas Hypebeast",
+        "nombre": "Chaquetas Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/chaquetas-hypebeast.jpg",
         "id": "0302"
     },
     {
         "nombre": "Pantalones Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/pantalones-hypebeast.jpg",
         "id": "0303"
-    },
-    {
-        "nombre": "Abrigos Hypebeast",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
-        "id": "0304"
     },
     {
         "nombre": "Calcetines Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
-        "id": "0305"
+        "img": "/images/calcetines-hypebeast.jpg",
+        "id": "0304"
     },
     {
         "nombre": "Riñoneras Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/rinoneras-hypebeast.jpg",
         "id": "0401"
     },
     {
         "nombre": "Gorras Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/gorras-hypebeast.jpg",
         "id": "0402"
     },
     {
         "nombre": "Hypebeast Wallpaper",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/hypebeast-wallpaper.jpg",
         "id": "0403"
     },
     {
         "nombre": "Bolsos Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/bolsos-hypebeast.jpg",
         "id": "0404"
     },
     {
-        "nombre": "Guantes Hypebeast",
+        "nombre": "Fundas Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/fundas-hypebeast.jpg",
         "id": "0405"
     },
     {
         "nombre": "Mochilas Hypebeast",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "/images/mochilas-hypebeast.jpg",
         "id": "0406"
     }
 ]

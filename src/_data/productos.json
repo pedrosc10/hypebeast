@@ -40,8 +40,16 @@
 
     },
     {
+        "nombre": "Camiseta GUESS",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61MidAAM0iL._AC_UX569_.jpg",
+        "precio": 37.43,
+        "enlace": "https://amzn.to/32XedTM",
+        "subcategorias": [ "0105", "0301" ]
+
+    },
+    {
         "nombre": "Sudadera Pepe Jeans",
-        "img": "http://ximg.es/250x250/000/fff",
+        "img": "",
         "precio": 42.5,
         "enlace": "enlace-amazon.com",
         "subcategorias": [ "0101"]

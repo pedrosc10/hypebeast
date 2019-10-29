@@ -71,13 +71,14 @@
     padding-bottom: 30px;
     padding-top: 20px;
     img {
-        width: 100%;
+        width: 250px;
         height: 250px;
         margin-bottom: 15px;
-
+        border-radius: 50%;
         object-fit: contain;
     }
 }
+
 .texto-seo {
     margin-top: 20px;
     margin-bottom: 50px;
