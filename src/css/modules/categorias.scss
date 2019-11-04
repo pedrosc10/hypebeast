@@ -28,6 +28,13 @@
             opacity: 0.5;
         }
     }
+    h3{
+        margin-bottom: 20px;
+    }
+    p{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
 }
 .categoria-footer {
     padding-bottom: 30px;
@@ -90,6 +97,9 @@
     p {
         margin-bottom: 60px;
     }
+}
+.texto {
+    font-size: 20px;
 }
 .marcoFoto {
     overflow: hidden; /*esta propiedad evita que la imagen ocupe mas espacio que su contenedor*/
