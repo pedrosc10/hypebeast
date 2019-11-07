@@ -1,234 +1,312 @@
 [
     {
         "nombre": "Gucci",
+        "title": "Comprar Ropa y Zapatillas Gucci Originales",
+        "intro": "Descubre las últimas colecciones de la marca italiana en moda, bolsos, zapatos y accesorios.",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/gucci-logo.jpg",
         "id": "0101"
     },
     {
         "nombre": "Off-White",
+        "title": "Comprar Ropa y Zapatillas Off-White Originales",
+        "intro": "Encuentra las mejores prendas de esta lujosa marca con diseños exclusivos.",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/off-white-logo.jpg",
         "id": "0102"
     },
     {
         "nombre": "Nike",
+        "title": "Comprar Ropa y Zapatillas Nike Originales",
+        "intro": "Lo último en ropa y zapatillas Nike, que ofrece una calidad, sensación y servicios innovadores.",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/nike-logo.png",
         "id": "0103"
     },
     {
         "nombre": "Balenciaga",
+        "title": "Comprar Ropa y Zapatillas Balenciaga Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/balenciaga-logo.jpg",
         "id": "0104"
     },
     {
         "nombre": "GUESS",
+        "title": "Comprar Ropa y Zapatillas GUESS Originales",
+        "intro": "Marca icónica desde los 80 ofrece una amplia gama de ropa y accesorios: relojes, gafas de sol, bolsos... a precios únicos.",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/guess-logo.jpg",
         "id": "0105"
     },
     {
         "nombre": "Vans",
+        "title": "Comprar Ropa y Zapatillas Vans Originales",
+        "intro": "La legendaria marca nacida en California renueva su última gama de zapatillas y ropa más cómodas y flexibles.",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/vans-logo.jpg",
         "id": "0106"
     },
     {
         "nombre": "Adidas",
+        "title": "Comprar Ropa y Zapatillas Adidas Originales",
+        "intro": "Calzado y ropa streetwear que genera un alto nivel de expectación y deseo por poseerlas.",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/adidas-logo.jpg",
         "id": "0107"
     },
     {
         "nombre": "Stussy",
+        "title": "Comprar Ropa y Zapatillas Stussy Originales",
+        "intro": "Productos que nunca fallen en las mejores boutiques de todo el mundo.",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/stussy-logo.jpg",
         "id": "0108"
     },
     {
         "nombre": "Patagonia",
+        "title": "Comprar Ropa y Zapatillas Patagonia Originales",
+        "intro": "Gran selección de artículos de alta calidad y durabilidad en equipamiento y ropa de estilo outdoor.",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/patagonia-logo.jpg",
         "id": "0109"
     },
     {
         "nombre": "Converse",
+        "title": "Comprar Ropa y Zapatillas Converse Originales",
+        "intro": "Disponemos de la mayor variedad de colores y tallas en toda la colección de zapatillas y ropa.",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/converse-logo.jpg",
         "id": "0110"
     },
     {
         "nombre": "The North Face",
+        "title": "Comprar Ropa y Zapatillas The North Face Originales",
+        "intro": "El lado frío de la montaña dió nombre a esta famosa marca hace más de 50 años dedicada a fabricar equipamiento técnico de montaña.",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/the-north-face-logo.jpg",
         "id": "0111"
     },
     {
         "nombre": "Ralph Lauren",
+        "title": "Comprar Ropa y Zapatillas Ralph Lauren Originales",
+        "intro": "Lás últimas tendencias y diseños en ropa de lujo para hombres, mujeres y niños.",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/ralph-lauren-logo.jpg",
         "id": "0112"
     },
     {
         "nombre": "Lacoste",
+        "title": "Comprar Ropa y Zapatillas Lacoste Originales",
+        "intro": "La prestigiosa marca del cocodrilo famosas por sus polos y prendas usadas desde hace años en el tenis y en el golf.",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/lacoste-logo.jpg",
         "id": "0113"
     },
     {
         "nombre": "Tommy Hilfiger",
+        "title": "Comprar Ropa y Zapatillas Tommy Hilfiger Originales",
+        "intro": "La marca mantiene su estilo elegante en sus colecciones de señora y caballero desarrollando su auténtica estética made in USA.",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/tommy-hilfiger-logo.jpg",
         "id": "0114"
     },
     {
         "nombre": "HUF",
+        "title": "Comprar Ropa y Zapatillas HUF Originales",
+        "intro": "Novedosas colecciones especialmente diseñada para los amantes del skate y modo urbana.",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/huf-logo.jpg",
         "id": "0115"
     },
     {
         "nombre": "Versace",
+        "title": "Comprar Ropa y Zapatillas Versace Originales",
+        "intro": "Los diseños italianos reconocidos mundialmente por su lujo estilo barroco e incluso extravagante.",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/versace-logo.jpg",
         "id": "0116"
     },
     {
         "nombre": "Kappa",
+        "title": "Comprar Ropa y Zapatillas Kappa Originales",
+        "intro": "La compañía más colorista e inconformista del mundo de la ropa deportiva con precios muy asequibles.",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/kappa-logo.jpg",
         "id": "0117"
     },
     {
         "nombre": "Puma",
+        "title": "Comprar Ropa y Zapatillas Puma Originales",
+        "intro": "Con la gran selección de productos Puma podrás llenar tu ropero con las prendas de diseño deportivo para hombre y mujer.",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/puma-logo.jpg",
         "id": "0118"
     },
     {
         "nombre": "FENDI",
+        "title": "Comprar Ropa y Zapatillas FENDI Originales",
+        "intro": "La firma de lujo Fendi nos presenta espectaculares colecciones combinando el trabajo artesanal con un tono desenfadado.",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/fendi-logo.jpg",
         "id": "0119"
     },
     {
         "nombre": "Le Coq Sportif",
+        "title": "Comprar Ropa y Zapatillas Le Coq Sportif Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/le-coq-sportif-logo.jpg",
         "id": "0120"
     },
     {
         "nombre": "Kenzo",
+        "title": "Comprar Ropa y Zapatillas Kenzo Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/kenzo-logo.jpg",
         "id": "0121"
     },
     {
         "nombre": "Heron Preston",
+        "title": "Comprar Ropa y Zapatillas Heron Preston Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/heron-preston-logo.jpg",
         "id": "0122"
     },
     {
         "nombre": "Palm Angels",
+        "title": "Comprar Ropa y Zapatillas Palm Angels Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/palm-angels-logo.jpg",
         "id": "0123"
     },
     {
         "nombre": "Stone Island",
+        "title": "Comprar Ropa y Zapatillas Stone Island Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/stone-island-logo.jpg",
         "id": "0124"
     },
     {
         "nombre": "Corte Alto Hypebeast",
+        "title": "Comprar Zapatillas Corte Alto Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/zapatillas-corte-alto-hypebeast.jpg",
         "id": "0201"
     },
     {
         "nombre": "Corte Bajo Hypebeast",
+        "title": "Comprar Zapatillas Corte Bajo Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/zapatillas-corte-bajo-hypebeast.jpg",
         "id": "0202"
     },
     {
         "nombre": "Deportivas Hypebeast",
+        "title": "Comprar Zapatillas Deportivas Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/zapatillas-deportivas-hypebeast.jpg",
         "id": "0203"
     },
     {
         "nombre": "Retro Hypebeast",
+        "title": "Comprar Zapatillas Retro Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/zapatillas-retro-hypebeast.jpg",
         "id": "0204"
     },
     {
         "nombre": "Basket Hypebeast",
+        "title": "Comprar Zapatillas Basket Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/zapatillas-basket-hypebeast.jpg",
         "id": "0205"
     },
     {
         "nombre": "Camisetas Hypebeast",
+        "title": "Comprar Camisetas Hypebeast Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/camisetas-hypebeast.jpg",
         "id": "0301"
     },
     {
         "nombre": "Chaquetas Hypebeast",
+        "title": "Comprar Chaquetas Hypebeast Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/chaquetas-hypebeast.jpg",
         "id": "0302"
     },
     {
         "nombre": "Pantalones Hypebeast",
+        "title": "Comprar Pantalones Hypebeast Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/pantalones-hypebeast.jpg",
         "id": "0303"
     },
     {
         "nombre": "Calcetines Hypebeast",
+        "title": "Comprar Calcetines Hypebeast Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/calcetines-hypebeast.jpg",
         "id": "0304"
     },
     {
         "nombre": "Riñoneras Hypebeast",
+        "title": "Comprar Riñoneras Hypebeast Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/rinoneras-hypebeast.jpg",
         "id": "0401"
     },
     {
         "nombre": "Gorras Hypebeast",
+        "title": "Comprar Gorras Hypebeast Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/gorras-hypebeast.jpg",
         "id": "0402"
     },
     {
         "nombre": "Hypebeast Wallpaper",
+        "title": "Comprar Wallpapers Hypebeast",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/hypebeast-wallpaper.jpg",
         "id": "0403"
     },
     {
         "nombre": "Bolsos Hypebeast",
+        "title": "Comprar Bolsos Hypebeast Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/bolsos-hypebeast.jpg",
         "id": "0404"
     },
     {
         "nombre": "Fundas Hypebeast",
+        "title": "Comprar Fundas Hypebeast Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/fundas-hypebeast.jpg",
         "id": "0405"
     },
     {
         "nombre": "Mochilas Hypebeast",
+        "title": "Comprar Mochilas Hypebeast Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/mochilas-hypebeast.jpg",
         "id": "0406"

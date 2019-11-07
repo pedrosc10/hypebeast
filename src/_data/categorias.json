@@ -1,25 +1,33 @@
 [
     {
         "nombre": "Marcas HypeBeast",
+        "title": "Comprar Marcas HypeBeast Originales",
+        "intro": "Te traemos las mejores marcas streetwear del mercado desde las más lujosas hasta las marcas que más se adaptan a todos los bolsillos.",
         "descripcion": "Te traemos las mejores marcas streetwear del mercado desde las más lujosas hasta las marcas que más se adaptan a todos los bolsillos.",
         "img": "/images/marcas.jpg",
         "id": "01"
     },
     {
         "nombre": "Zapatillas HypeBeast",
-        "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos aspernatur blanditiis ad, quod nulla repellendus iusto esse sit. Quae eos voluptates voluptatibus sint, tempore praesentium totam dicta tenetur cum cumque Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos aspernatur blanditiis ad.",
+        "title": "Comprar Zapatillas HypeBeast Originales",
+        "intro": "Las zapatillas que harán que seas la envidia de todos las tienes aquí, listas para que entres y les eches el ojo. Aviso que te entrarán ganas de comprártelas todas.",
+        "descripcion":"Nunca tienes demasiadas zapatillas. Renovamos nuestra selección de zapatillas hypebeast con las mejores marcas del mercado Converse, Vans, Nike, Adidas Originals y zapatillas de lujo y ediciones especiales que nunca deberías perderte.",
         "img": "/images/sneakers.jpg",
         "id": "02"
     },
     {
         "nombre": "Ropa HypeBeast",
-        "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos aspernatur blanditiis ad, quod nulla repellendus iusto esse sit. Quae eos voluptates voluptatibus sint, tempore praesentium totam dicta tenetur cum cumque Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos aspernatur blanditiis ad.",
+        "title": "Comprar Ropa HypeBeast Originales",
+        "intro": "Demuestra tu estilo y expresa el arte del Hypebeast que llevas dentro. Tú solo elige lo que te quieras poner que del resto ya nos encargamos nosotros.",
+        "descripcion": "Te traemos las mejores marcas streetwear del mercado desde las más lujosas hasta las marcas que más se adaptan a todos los bolsillos.",
         "img": "/images/ropa.jpg",
         "id": "03"
     },
     {
         "nombre": "Accesorios HypeBeast",
-        "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos aspernatur blanditiis ad, quod nulla repellendus iusto esse sit. Quae eos voluptates voluptatibus sint, tempore praesentium totam dicta tenetur cum cumque Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos aspernatur blanditiis ad.",
+        "title": "Comprar Accesorios HypeBeast Originales",
+        "intro": "La guinda del pastel... Esos complementos que tantos nos gustan que no pueden faltar en tu outfit a un simple clic para que ya los tengas en tu mano.",
+        "descripcion": "Te traemos las mejores marcas streetwear del mercado desde las más lujosas hasta las marcas que más se adaptan a todos los bolsillos.",
         "img": "/images/accesorios.jpg",
         "id": "04"
     }

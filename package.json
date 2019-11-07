@@ -61,5 +61,8 @@
     "vue-template-compiler": "^2.6.10",
     "webpack": "^4.39.1",
     "webpack-cli": "^3.3.6"
+  },
+  "dependencies": {
+    "eleventy-xml-plugin": "^0.1.0"
   }
 }

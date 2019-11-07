@@ -8,19 +8,19 @@ permalink: /{{ subcategoria.id | getCategoria | slug }}/{{ subcategoria.nombre |
 
 {% extends "layouts/default.njk" %}
     {% block meta %}
- 	<title>{{ subcategoria.nombre }}</title>
+ 	<title>{{ subcategoria.title }}</title>
 	<meta name="description" content="En esta tienda encontrarás toda la ropa, zapatos y complementos Hypebeast.">
 	<meta name="keywords" content="">
 
 	<meta property="og:url" content="https://hypebeast.pro/{{ subcategoria.id | getCategoria | slug }}/{{ subcategoria.nombre | slug }}" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="{{ subcategoria.nombre }}" />
+	<meta property="og:title" content="{{ subcategoria.title }}" />
 	<meta property="og:description" content="{{ subcategoria.descripcion }}" />
 	<meta property="og:image" content="https://hypebeast.pro{{ subcategoria.img }}" />
 
     <meta name="twitter:card"  content="summary">
     <meta name="twitter:url" content="https://hypebeast.pro/{{ subcategoria.nombre | slug}}">
-    <meta name="twitter:title" content="{{ subcategoria.nombre }}">
+    <meta name="twitter:title" content="{{ subcategoria.title }}">
     <meta name="twitter:description" content="{{ subcategoria.descripcion }}">
     <meta name="twitter:image" content="https://hypebeast.pro{{ subcategoria.img }}">
         
@@ -48,7 +48,7 @@ permalink: /{{ subcategoria.id | getCategoria | slug }}/{{ subcategoria.nombre |
                             <div class="col-12 col-md-6 col-lg-4 text-center mb-5">
                                 <article class="producto">
                                     <a href="{{producto.enlace}}" target="_blank">
-                                        <img src= "{{ producto.img }}" alt="marcas">
+                                        <img src= "{{ producto.img }}" alt="{{producto.nombre}}">
                                     </a>
                                     <h2>{{ producto.nombre }}</h2>
                                     <h5>{{ producto.precio }}€</h5>
