@@ -9,7 +9,7 @@ permalink: /{{ subcategoria.id | getCategoria | slug }}/{{ subcategoria.nombre |
 {% extends "layouts/default.njk" %}
     {% block meta %}
  	<title>{{ subcategoria.title }}</title>
-	<meta name="description" content="En esta tienda encontrarás toda la ropa, zapatos y complementos Hypebeast.">
+	<meta name="description" content="{{ subcategoria.descripcion }}">
 	<meta name="keywords" content="">
 
 	<meta property="og:url" content="https://hypebeast.pro/{{ subcategoria.id | getCategoria | slug }}/{{ subcategoria.nombre | slug }}" />

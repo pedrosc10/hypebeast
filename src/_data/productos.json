@@ -4,7 +4,7 @@
         "img": "https://images-na.ssl-images-amazon.com/images/I/31r9C4FSXlL._AC_.jpg",
         "precio": 38.79,
         "enlace": "https://amzn.to/31GI0OS",
-        "subcategorias": [ "0109", "0301" ]
+        "subcategorias": [ "0106", "0301" ]
 
     },
     {
@@ -12,7 +12,7 @@
         "img": "https://images-na.ssl-images-amazon.com/images/I/81-vwWgEdXL._AC_UX679_.jpg",
         "precio": 33.53,
         "enlace": "https://amzn.to/33P7A5Q",
-        "subcategorias": [ "0109", "0301" ]
+        "subcategorias": [ "0106", "0301" ]
 
     },
     {
@@ -28,7 +28,7 @@
         "img": "https://images-na.ssl-images-amazon.com/images/I/71-8zC%2BXQ7L._AC_UY606_.jpg",
         "precio": 22.95,
         "enlace": "https://amzn.to/2W6E0pO",
-        "subcategorias": [ "0103", "0301" ]
+        "subcategorias": [ "0102", "0301" ]
 
     },
     {
@@ -36,7 +36,7 @@
         "img": "https://images-na.ssl-images-amazon.com/images/I/61zUY1dCfCL._AC_UX679_.jpg",
         "precio": 83.80,
         "enlace": "https://amzn.to/31GrJcM",
-        "subcategorias": [ "0108", "0301" ]
+        "subcategorias": [ "0103", "0301" ]
 
     },
     {
@@ -44,7 +44,7 @@
         "img": "https://images-na.ssl-images-amazon.com/images/I/61MidAAM0iL._AC_UX569_.jpg",
         "precio": 37.43,
         "enlace": "https://amzn.to/32XedTM",
-        "subcategorias": [ "0105", "0301" ]
+        "subcategorias": [ "0101", "0301" ]
 
     },
     {
@@ -60,7 +60,7 @@
         "img": "https://images-na.ssl-images-amazon.com/images/I/612Z534T3vL._AC_UX695_.jpg",
         "precio": 48.52,
         "enlace": "https://amzn.to/35XDPSt",
-        "subcategorias": [ "0110", "0202"]
+        "subcategorias": [ "0104", "0202"]
 
     },
     {
@@ -76,7 +76,7 @@
         "img": "https://images-na.ssl-images-amazon.com/images/I/61leBaln6bL._AC_UX695_.jpg",
         "precio": 54.99,
         "enlace": "https://amzn.to/31EADHP",
-        "subcategorias": [ "0103", "0204"]
+        "subcategorias": [ "0102", "0204"]
 
     },
     {
@@ -84,7 +84,7 @@
         "img": "https://images-na.ssl-images-amazon.com/images/I/81TIdDGxT1L._AC_UY535_.jpg",
         "precio":  89.95,
         "enlace": "https://amzn.to/2N8BaMZ",
-        "subcategorias": [ "0107", "0204" ]
+        "subcategorias": [ "0110", "0204" ]
 
     },
     {
@@ -92,7 +92,7 @@
         "img": "https://images-na.ssl-images-amazon.com/images/I/71sGhezEJHL._AC_UY535_.jpg",
         "precio":  146.62,
         "enlace": "https://amzn.to/2BQuGNL",
-        "subcategorias": [ "0103","0201", "0204", "0205"]
+        "subcategorias": [ "0102","0201", "0204", "0205"]
 
     },
     {
@@ -100,7 +100,7 @@
         "img": "https://images-na.ssl-images-amazon.com/images/I/71TGO2-QLPL._AC_UX675_.jpg",
         "precio":  79.81,
         "enlace": "https://amzn.to/2MHT0r5",
-        "subcategorias": [ "0110","0201", "0205"]
+        "subcategorias": [ "0104","0201", "0205"]
 
     },
     {
@@ -108,7 +108,7 @@
         "img": "https://images-na.ssl-images-amazon.com/images/I/61cT6ogs6gL._AC_UX535_.jpg",
         "precio":  109,
         "enlace": "https://amzn.to/2JdogMD",
-        "subcategorias": [ "0110","0202", "0205"]
+        "subcategorias": [ "0104","0202", "0205"]
 
     },
     {
@@ -116,7 +116,7 @@
         "img": "https://images-na.ssl-images-amazon.com/images/I/7196c5-l2qL._AC_UX695_.jpg",
         "precio":  61.9,
         "enlace": "https://amzn.to/2Pfdidh",
-        "subcategorias": [ "0110","0202"]
+        "subcategorias": [ "0104","0202"]
 
     },
     {
@@ -132,7 +132,7 @@
         "img": "https://images-na.ssl-images-amazon.com/images/I/816u1nTfduL._AC_SX695._SX._UX._SY._UY_.jpg",
         "precio":  44.22,
         "enlace": "https://amzn.to/364GERt",
-        "subcategorias": [ "0106", "0202" ]
+        "subcategorias": [ "0109", "0202" ]
 
     }
     

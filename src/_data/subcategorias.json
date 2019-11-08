@@ -1,82 +1,82 @@
 [
     {
-        "nombre": "Gucci",
-        "title": "Comprar Ropa y Zapatillas Gucci Originales",
-        "intro": "Descubre las últimas colecciones de la marca italiana en moda, bolsos, zapatos y accesorios.",
-        "descripcion": "",
-        "img": "/images/gucci-logo.jpg",
+        "nombre": "GUESS",
+        "title": "Comprar Ropa y Zapatillas GUESS Originales",
+        "intro": "Marca icónica desde los 80 ofrece una amplia gama de ropa y accesorios: relojes, gafas de sol, bolsos... a precios únicos.",
+        "descripcion": "Compra lo último de la colección de la marca GUESS: zapatos, camisetas, relojes, sudaderas y mucho más de moda streetwear de hombre y mujer listo para que te llegue a tu casa.",
+        "img": "/images/guess-logo.jpg",
         "id": "0101"
-    },
-    {
-        "nombre": "Off-White",
-        "title": "Comprar Ropa y Zapatillas Off-White Originales",
-        "intro": "Encuentra las mejores prendas de esta lujosa marca con diseños exclusivos.",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/off-white-logo.jpg",
-        "id": "0102"
     },
     {
         "nombre": "Nike",
         "title": "Comprar Ropa y Zapatillas Nike Originales",
         "intro": "Lo último en ropa y zapatillas Nike, que ofrece una calidad, sensación y servicios innovadores.",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "descripcion": "La marca líder en ropa y zapatillas es con seguridad Nike, por la sencilla razón de su gran calidad e innovación de sus productos. Las últimas novedades en zapatillas como las Air Force 1, las Air Max 97 o las Air Max 270 son zapatillas que no pueden faltar en tu colección.",
         "img": "/images/nike-logo.png",
-        "id": "0103"
-    },
-    {
-        "nombre": "Balenciaga",
-        "title": "Comprar Ropa y Zapatillas Balenciaga Originales",
-        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/balenciaga-logo.jpg",
-        "id": "0104"
-    },
-    {
-        "nombre": "GUESS",
-        "title": "Comprar Ropa y Zapatillas GUESS Originales",
-        "intro": "Marca icónica desde los 80 ofrece una amplia gama de ropa y accesorios: relojes, gafas de sol, bolsos... a precios únicos.",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/guess-logo.jpg",
-        "id": "0105"
-    },
-    {
-        "nombre": "Vans",
-        "title": "Comprar Ropa y Zapatillas Vans Originales",
-        "intro": "La legendaria marca nacida en California renueva su última gama de zapatillas y ropa más cómodas y flexibles.",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/vans-logo.jpg",
-        "id": "0106"
-    },
-    {
-        "nombre": "Adidas",
-        "title": "Comprar Ropa y Zapatillas Adidas Originales",
-        "intro": "Calzado y ropa streetwear que genera un alto nivel de expectación y deseo por poseerlas.",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/adidas-logo.jpg",
-        "id": "0107"
+        "id": "0102"
     },
     {
         "nombre": "Stussy",
         "title": "Comprar Ropa y Zapatillas Stussy Originales",
         "intro": "Productos que nunca fallen en las mejores boutiques de todo el mundo.",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "descripcion": "La marca estaudinense de moda streetwear ha conseguido bastante popularidad en todo el mundo con sus últimas colecciones con un estilo casual y surfero. No te pierdas los modelos de camisetas y sudaderas Stussy.",
         "img": "/images/stussy-logo.jpg",
-        "id": "0108"
-    },
-    {
-        "nombre": "Patagonia",
-        "title": "Comprar Ropa y Zapatillas Patagonia Originales",
-        "intro": "Gran selección de artículos de alta calidad y durabilidad en equipamiento y ropa de estilo outdoor.",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/patagonia-logo.jpg",
-        "id": "0109"
+        "id": "0103"
     },
     {
         "nombre": "Converse",
         "title": "Comprar Ropa y Zapatillas Converse Originales",
         "intro": "Disponemos de la mayor variedad de colores y tallas en toda la colección de zapatillas y ropa.",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "descripcion": "Converse es una marca muy relacionada con los jóvenes, mayormente conocida por su famosa zapatilla All-Star presentadas por el jugador de baloncesto Chuck Taylor por primera vez al mundo. Las Chuck Taylor All-Star traen diseños renovados constantemente con colores frescos, estampados y materiales de calidad adecuados para el uso diario.",
         "img": "/images/converse-logo.jpg",
+        "id": "0104"
+    },
+    {
+        "nombre": "Off-White",
+        "title": "Comprar Ropa y Zapatillas Off-White Originales",
+        "intro": "Encuentra las mejores prendas de esta lujosa marca con diseños exclusivos.",
+        "descripcion": "Off-White ™ es una marca streetwear fundada por el DJ y diseñador irgil Abloh, famosa por sus diseños de sudaderas, camisetas, pantalones... adornados con rayas y flechas representativas de la marca.",
+        "img": "/images/off-white-logo.jpg",
+        "id": "0105"
+    },
+    {
+        "nombre": "Patagonia",
+        "title": "Comprar Ropa y Zapatillas Patagonia Originales",
+        "intro": "Gran selección de artículos de alta calidad y durabilidad en equipamiento y ropa de estilo outdoor.",
+        "descripcion": "Descubre la mejor selección de la marca Patagonia en ropa y equipamento outdoor de gran calidad y espectaculares diseños para hombe y mujer.La firma americana fué fundada por Yvon Chouinard y lleva más de 40 años desarollando prendas especializadas para los deportes al aire libre.",
+        "img": "/images/patagonia-logo.jpg",
+        "id": "0106"
+    },
+    {
+        "nombre": "Gucci",
+        "title": "Comprar Ropa y Zapatillas Gucci Originales",
+        "intro": "Descubre las últimas colecciones de la marca italiana en moda, bolsos, zapatos y accesorios.",
+        "descripcion": "Los mejores accesorios Gucci del mercado que te puedes encontrar los tienes aquí a tu alcance. Gafas de sol, relojes y cinturones Gucci que no pueden faltar en tus outfits.",
+        "img": "/images/gucci-logo.jpg",
+        "id": "0107"
+    },
+    {
+        "nombre": "Balenciaga",
+        "title": "Comprar Ropa y Zapatillas Balenciaga Originales",
+        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "descripcion": "La firma Balenciaga, una de las más importante de la alta costura, centrada principalmente en la gama de permumería y accesorios: gafas de sol, perfumes, bolsos... Otro de sus productos estrella de la marca Balenciaga son sus zapatillas, ya que presentan unos diseños muy originales.",
+        "img": "/images/balenciaga-logo.jpg",
+        "id": "0108"
+    },
+    {
+        "nombre": "Vans",
+        "title": "Comprar Ropa y Zapatillas Vans Originales",
+        "intro": "La legendaria marca nacida en California renueva su última gama de zapatillas y ropa más cómodas y flexibles.",
+        "descripcion": "Después de abrir sus puertas en el año 1966, la cultura del skate asimiló a Vans como la marca por preferencia y a día de hoy se ha convertido en una fuerza dominante a nivel mundial en la industria de las zapatillas, uno claro ejemplo son las Vans old skoll una de las más favoritas por los jóvenes.",
+        "img": "/images/vans-logo.jpg",
+        "id": "0109"
+    },
+    {
+        "nombre": "Adidas",
+        "title": "Comprar Ropa y Zapatillas Adidas Originales",
+        "intro": "Calzado y ropa streetwear que genera un alto nivel de expectación y deseo por poseerlas.",
+        "descripcion": "Adidas es una marca icónica a nivel mundial en la moda urbana de zapatillas y ropa deportiva. Y no es casualidad, ya que ofrecen unos materiales de gran calidad e innovadora tecnología aplicada a sus zapatillas como el 'Ultraboost'. La marca alemana posee diferentes ",
+        "img": "/images/adidas-logo.jpg",
         "id": "0110"
     },
     {
@@ -158,38 +158,6 @@
         "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
         "img": "/images/le-coq-sportif-logo.jpg",
         "id": "0120"
-    },
-    {
-        "nombre": "Kenzo",
-        "title": "Comprar Ropa y Zapatillas Kenzo Originales",
-        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/kenzo-logo.jpg",
-        "id": "0121"
-    },
-    {
-        "nombre": "Heron Preston",
-        "title": "Comprar Ropa y Zapatillas Heron Preston Originales",
-        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/heron-preston-logo.jpg",
-        "id": "0122"
-    },
-    {
-        "nombre": "Palm Angels",
-        "title": "Comprar Ropa y Zapatillas Palm Angels Originales",
-        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/palm-angels-logo.jpg",
-        "id": "0123"
-    },
-    {
-        "nombre": "Stone Island",
-        "title": "Comprar Ropa y Zapatillas Stone Island Originales",
-        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/stone-island-logo.jpg",
-        "id": "0124"
     },
     {
         "nombre": "Corte Alto Hypebeast",
