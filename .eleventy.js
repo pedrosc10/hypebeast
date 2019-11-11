@@ -1,3 +1,5 @@
+const moment = require('moment')
+
 module.exports = function (eleventyConfig) {
 
 	// Force browserSync Reload for webpack css & js
@@ -6,6 +8,11 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('src/images')
 	eleventyConfig.addPassthroughCopy('src/css/assets')
 	// TODO: Incluir archivos configuración redirecciones Netlify
+
+	// date filter
+	eleventyConfig.addFilter("date", function (date, format) {
+		return moment(date).format(format);
+	});
 
 	eleventyConfig.addNunjucksFilter("getCategoria", function(value) {
 		

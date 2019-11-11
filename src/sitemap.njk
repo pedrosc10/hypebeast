@@ -1,0 +1,32 @@
+---
+date: Last Modified
+permalink: sitemap.xml
+---
+
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+	<url>
+		<loc>{{ site.url }}</loc>
+		<lastmod>{{ page.date | date('YYYY-MM-DD') }}</lastmod>
+		<priority>1.00</priority>
+	</url>
+	{% for categoria in categorias %}
+	<url>
+		<loc>{{ site.url }}/{{categoria.nombre | slug}}.html</loc>
+		<lastmod>{{ page.date | date('YYYY-MM-DD') }}</lastmod>
+		<priority>0.80</priority>
+	</url>
+	{% endfor %}
+		{% for subcategoria in subcategorias %}
+	<url>
+		<loc>{{ site.url }}/{{ subcategoria.id | getCategoria | slug }}/{{ subcategoria.nombre | slug }}.html</loc>
+		<lastmod>{{ page.date | date('YYYY-MM-DD') }}</lastmod>
+		<priority>0.70</priority>
+	</url>
+	{% endfor %}
+
+</urlset>

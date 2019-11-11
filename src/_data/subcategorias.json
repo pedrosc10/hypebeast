@@ -75,7 +75,7 @@
         "nombre": "Adidas",
         "title": "Comprar Ropa y Zapatillas Adidas Originales",
         "intro": "Calzado y ropa streetwear que genera un alto nivel de expectación y deseo por poseerlas.",
-        "descripcion": "Adidas es una marca icónica a nivel mundial en la moda urbana de zapatillas y ropa deportiva. Y no es casualidad, ya que ofrecen unos materiales de gran calidad e innovadora tecnología aplicada a sus zapatillas como el 'Ultraboost'. La marca alemana posee diferentes ",
+        "descripcion": "Adidas es una marca icónica a nivel mundial en la moda urbana de zapatillas y ropa deportiva. Y no es casualidad, ya que ofrecen unos materiales de gran calidad e innovadora tecnología aplicada a sus zapatillas como el 'Ultraboost'.",
         "img": "/images/adidas-logo.jpg",
         "id": "0110"
     },
@@ -83,7 +83,7 @@
         "nombre": "The North Face",
         "title": "Comprar Ropa y Zapatillas The North Face Originales",
         "intro": "El lado frío de la montaña dió nombre a esta famosa marca hace más de 50 años dedicada a fabricar equipamiento técnico de montaña.",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "descripcion": "The North Face se ha convertido en un icono del hypebeast contando con grandes colaboraciones como: Supreme, Vans o Mastermind. Amplia colección famosa por sus diseños que combinan estilo streetwear y montaña, con materiales de calidad preparados para aguantar las condiciones climatológicas más duras.",
         "img": "/images/the-north-face-logo.jpg",
         "id": "0111"
     },
@@ -91,39 +91,23 @@
         "nombre": "Ralph Lauren",
         "title": "Comprar Ropa y Zapatillas Ralph Lauren Originales",
         "intro": "Lás últimas tendencias y diseños en ropa de lujo para hombres, mujeres y niños.",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "descripcion": "Polo Ralp Lauren es la esencia del estilo americano. Logra un equilibrio entre un estilo atemporal y moderno. Crea colecciones que expresan un sentdo único de estilo propio inspirado en la elegancia de la época de los Estados Unidos.",
         "img": "/images/ralph-lauren-logo.jpg",
         "id": "0112"
-    },
-    {
-        "nombre": "Lacoste",
-        "title": "Comprar Ropa y Zapatillas Lacoste Originales",
-        "intro": "La prestigiosa marca del cocodrilo famosas por sus polos y prendas usadas desde hace años en el tenis y en el golf.",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/lacoste-logo.jpg",
-        "id": "0113"
     },
     {
         "nombre": "Tommy Hilfiger",
         "title": "Comprar Ropa y Zapatillas Tommy Hilfiger Originales",
         "intro": "La marca mantiene su estilo elegante en sus colecciones de señora y caballero desarrollando su auténtica estética made in USA.",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "descripcion": "",
         "img": "/images/tommy-hilfiger-logo.jpg",
         "id": "0114"
-    },
-    {
-        "nombre": "HUF",
-        "title": "Comprar Ropa y Zapatillas HUF Originales",
-        "intro": "Novedosas colecciones especialmente diseñada para los amantes del skate y modo urbana.",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "img": "/images/huf-logo.jpg",
-        "id": "0115"
     },
     {
         "nombre": "Versace",
         "title": "Comprar Ropa y Zapatillas Versace Originales",
         "intro": "Los diseños italianos reconocidos mundialmente por su lujo estilo barroco e incluso extravagante.",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "descripcion": "Versace es una de las casas de moda de lujo más reconocidas del mundo fundada por Gianni Versace en 1978. Su icónica cabeza de medusa, los motivos de la llave griega y los símbolos barrocos realmente representan el carácter distintivo y la elegancia de los productos a medida.",
         "img": "/images/versace-logo.jpg",
         "id": "0116"
     },
@@ -131,7 +115,7 @@
         "nombre": "Kappa",
         "title": "Comprar Ropa y Zapatillas Kappa Originales",
         "intro": "La compañía más colorista e inconformista del mundo de la ropa deportiva con precios muy asequibles.",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "descripcion": "El patrimonio de Kappa es una fuente constante de inspiración para el estilo de vida comteporáneo. Con colecionnes de ropa deportiva con un estilo urbano que se podría describir como: inconformista, colorista y flexible. ",
         "img": "/images/kappa-logo.jpg",
         "id": "0117"
     },
