@@ -128,6 +128,14 @@
 
     },
     {
+        "nombre": "Gucci Sneaker Corte Alto",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61xqjg6iEqL._AC_UY695_.jpg",
+        "precio":  353.68,
+        "enlace": "https://amzn.to/2NDU53G",
+        "subcategorias": [ "0107","0201"]
+
+    },
+    {
         "nombre": "Vans Atwood Canvas",
         "img": "https://images-na.ssl-images-amazon.com/images/I/816u1nTfduL._AC_SX695._SX._UX._SY._UY_.jpg",
         "precio":  44.22,

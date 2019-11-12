@@ -123,7 +123,7 @@
         "nombre": "Puma",
         "title": "Comprar Ropa y Zapatillas Puma Originales",
         "intro": "Con la gran selección de productos Puma podrás llenar tu ropero con las prendas de diseño deportivo para hombre y mujer.",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "descripcion": "Fundada en 1948 por Rudolf Dassler, PUMA ha ganado prestigio por vestir a atletas olímpicos y atletas de primer nivel en todo el mundo. Una de las primeras marcas en el mundo de las zapatillas de moda de estilo deportivo y lifestyle.",
         "img": "/images/puma-logo.jpg",
         "id": "0118"
     },
@@ -131,55 +131,55 @@
         "nombre": "FENDI",
         "title": "Comprar Ropa y Zapatillas FENDI Originales",
         "intro": "La firma de lujo Fendi nos presenta espectaculares colecciones combinando el trabajo artesanal con un tono desenfadado.",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "descripcion": "",
         "img": "/images/fendi-logo.jpg",
         "id": "0119"
     },
     {
         "nombre": "Le Coq Sportif",
         "title": "Comprar Ropa y Zapatillas Le Coq Sportif Originales",
-        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "intro": "La marca conocida por su característico logo del gallo, símbolo nacional de Francia, trabaja espectaculares diseños desde hace ya más de un siglo.",
+        "descripcion": "Le Coq Sportif o traducido al español 'El Gallo Deportivo' consigue combinar lo mejor de sus más de 130 años de tradición con los estilos más comteporáneos. Sus zapatillas y ropa juntan la sencillez y lo moderno siempre trabajado con materiales de una calidad superior.",
         "img": "/images/le-coq-sportif-logo.jpg",
         "id": "0120"
     },
     {
-        "nombre": "Corte Alto Hypebeast",
+        "nombre": "Zapatillas de Corte Alto Hypebeast",
         "title": "Comprar Zapatillas Corte Alto Originales",
-        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "intro": "Aumenta tu colección con esta selección de magníficas de zapatillas de corte alto de moda streetwear.",
+        "descripcion": "Se acabó eso de guardar estas zapatillas que tanto nos gustan sólo para la cancha de baloncesto y disfrutar de ellas en nuestro día a día.",
         "img": "/images/zapatillas-corte-alto-hypebeast.jpg",
         "id": "0201"
     },
     {
-        "nombre": "Corte Bajo Hypebeast",
+        "nombre": "Zapatillas de Corte Bajo Hypebeast",
         "title": "Comprar Zapatillas Corte Bajo Originales",
-        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "intro": "Estas zapatillas son la pieza fundamental que nunca puede faltar en tu armario.",
+        "descripcion": "Los <strong>sneakers low top</strong> son las zapatillas por excenlencia, ya que consiguen la perfección por su <strong>comodidad y estilo</strong>. Otras de sus grandes virtudes es que son un calzado muy ponible que puedes combinar desde los pantalones deportivos hasta vaqueros.",
         "img": "/images/zapatillas-corte-bajo-hypebeast.jpg",
         "id": "0202"
     },
     {
-        "nombre": "Deportivas Hypebeast",
+        "nombre": "Zapatillas Deportivas Hypebeast",
         "title": "Comprar Zapatillas Deportivas Originales",
-        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "intro": "Amplía tu colección de zapatos deportivos con esta gran selección que te ofrecemos.",
+        "descripcion": "Si lo que buscas son zapatillas de estética running estás en la página perfecta porque aquí te traemos la mejor selección de <strong>sneakers deportivas</strong> con los mejores diseños y comodidad contando siempre con materiales de gran calidad.",
         "img": "/images/zapatillas-deportivas-hypebeast.jpg",
         "id": "0203"
     },
     {
-        "nombre": "Retro Hypebeast",
+        "nombre": "Zapatillas Retro Hypebeast",
         "title": "Comprar Zapatillas Retro Originales",
-        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "intro": "Para los amantes de los diseños del pasado aquí encontrarás las mejores zapatillas retro",
+        "descripcion": "La moda vintage está de moda, eso lo sabemos todos, y por eso te traemos la mejor selección de sneakers retro, puedes comprar los mejores modelos del mercado disponibles y listos para tí.",
         "img": "/images/zapatillas-retro-hypebeast.jpg",
         "id": "0204"
     },
     {
-        "nombre": "Basket Hypebeast",
+        "nombre": "Zapatillas de Basket Hypebeast",
         "title": "Comprar Zapatillas Basket Originales",
-        "intro": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
-        "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, eaque?",
+        "intro": "Los fanáticos de las zapatillas basket no pueden permitirse no entrar al echar el ojo a una, dos o tres pares de ellas.",
+        "descripcion": "",
         "img": "/images/zapatillas-basket-hypebeast.jpg",
         "id": "0205"
     },
