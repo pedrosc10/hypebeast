@@ -48,11 +48,11 @@
 
     },
     {
-        "nombre": "Sudadera Pepe Jeans",
+        "nombre": "Chuck Taylor All Star Lift High Top",
         "img": "",
         "precio": 42.5,
-        "enlace": "enlace-amazon.com",
-        "subcategorias": [ "0101"]
+        "enlace": "https://amzn.to/2pZMP9x",
+        "subcategorias": [ "0104", "0201"]
 
     },
     {
@@ -141,6 +141,22 @@
         "precio":  44.22,
         "enlace": "https://amzn.to/364GERt",
         "subcategorias": [ "0109", "0202" ]
+
+    },
+    {
+        "nombre": "Vans Ward Canvas",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71NmAUbdAZL._AC_UX695_.jpg",
+        "precio":  55.08,
+        "enlace": "https://amzn.to/2X83VOw",
+        "subcategorias": [ "0109", "0202" ]
+
+    },
+    {
+        "nombre": "Chaqueta Adidas Originals",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81Sedavx82L._AC_SY879_.jpg",
+        "precio":  46.95,
+        "enlace": "https://amzn.to/36UncHA",
+        "subcategorias": [ "0110", "0302" ]
 
     }
     

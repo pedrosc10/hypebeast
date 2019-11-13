@@ -33,7 +33,7 @@ permalink: /{{ subcategoria.id | getCategoria | slug }}/{{ subcategoria.nombre |
                     <h1>{{ subcategoria.nombre }}</h1>
                 </div>
                 <div class="col text-center texto">
-                    <p>{{subcategoria.descripcion}}</p>
+                    <p>{{subcategoria.descripcion | safe }}</p>
                 </div>
             </div>
         </div>
