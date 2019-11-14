@@ -19,7 +19,7 @@
         "nombre": "Stussy",
         "title": "Comprar Ropa y Zapatillas Stussy 100% Originales",
         "intro": "Productos que nunca fallen en las mejores boutiques de todo el mundo.",
-        "descripcion": "La marca estaudinense de moda streetwear ha conseguido bastante popularidad en todo el mundo con sus últimas colecciones con un estilo casual y surfero. No te pierdas los modelos de camisetas y sudaderas Stussy.",
+        "descripcion": "La marca estadounidense de moda streetwear ha conseguido bastante popularidad en todo el mundo con sus últimas colecciones con un estilo casual y surfero. No te pierdas los modelos de camisetas y sudaderas Stussy.",
         "img": "/images/stussy-logo.jpg",
         "id": "0103"
     },
@@ -35,7 +35,7 @@
         "nombre": "Off-White",
         "title": "Comprar Ropa y Zapatillas Off-White 100% Originales",
         "intro": "Encuentra las mejores prendas de esta lujosa marca con diseños exclusivos.",
-        "descripcion": "Off-White ™ es una marca streetwear fundada por el DJ y diseñador irgil Abloh, famosa por sus diseños de sudaderas, camisetas, pantalones... adornados con rayas y flechas representativas de la marca.",
+        "descripcion": "Off-White ™ es una marca streetwear fundada por el DJ y diseñador Virgil Abloh, famosa por sus diseños de sudaderas, camisetas, pantalones... adornados con rayas y flechas representativas de la marca.",
         "img": "/images/off-white-logo.jpg",
         "id": "0105"
     },
@@ -43,7 +43,7 @@
         "nombre": "Patagonia",
         "title": "Comprar Ropa y Zapatillas Patagonia 100% Originales",
         "intro": "Gran selección de artículos de alta calidad y durabilidad en equipamiento y ropa de estilo outdoor.",
-        "descripcion": "Descubre la mejor selección de la marca Patagonia en ropa y equipamento outdoor de gran calidad y espectaculares diseños para hombe y mujer.La firma americana fué fundada por Yvon Chouinard y lleva más de 40 años desarollando prendas especializadas para los deportes al aire libre.",
+        "descripcion": "Descubre la mejor selección de la marca Patagonia en ropa y equipamiento outdoor de gran calidad y espectaculares diseños para hombe y mujer.La firma americana fué fundada por Yvon Chouinard y lleva más de 40 años desarrollando prendas especializadas para los deportes al aire libre.",
         "img": "/images/patagonia-logo.jpg",
         "id": "0106"
     },
@@ -59,7 +59,7 @@
         "nombre": "Balenciaga",
         "title": "Comprar Ropa y Zapatillas Balenciaga 100% Originales",
         "intro": "Una de las firmas más prestigiosas del hypebeast con amplio catálogo en perfumería y accesorios",
-        "descripcion": "La firma Balenciaga, una de las más importante de la alta costura, centrada principalmente en la gama de permumería y accesorios: gafas de sol, perfumes, bolsos... Otro de sus productos estrella de la marca Balenciaga son sus zapatillas, ya que presentan unos diseños muy 100% originales.",
+        "descripcion": "La firma Balenciaga, una de las más importante de la alta costura, centrada principalmente en la gama de perfumería y accesorios: gafas de sol, perfumes, bolsos... Otro de sus productos estrella de la marca Balenciaga son sus zapatillas, ya que presentan unos diseños muy 100% originales.",
         "img": "/images/balenciaga-logo.jpg",
         "id": "0108"
     },
@@ -67,7 +67,7 @@
         "nombre": "Vans",
         "title": "Comprar Ropa y Zapatillas Vans 100% Originales",
         "intro": "La legendaria marca nacida en California renueva su última gama de zapatillas y ropa más cómodas y flexibles.",
-        "descripcion": "Después de abrir sus puertas en el año 1966, la cultura del skate asimiló a Vans como la marca por preferencia y a día de hoy se ha convertido en una fuerza dominante a nivel mundial en la industria de las zapatillas, uno claro ejemplo son las Vans old skoll una de las más favoritas por los jóvenes.",
+        "descripcion": "Después de abrir sus puertas en el año 1966, la cultura del skate asimiló a Vans como la marca por preferencia y a día de hoy se ha convertido en una fuerza dominante a nivel mundial en la industria de las zapatillas, uno claro ejemplo son las Vans old skool una de las más favoritas por los jóvenes.",
         "img": "/images/vans-logo.jpg",
         "id": "0109"
     },
@@ -91,7 +91,7 @@
         "nombre": "Ralph Lauren",
         "title": "Comprar Ropa y Zapatillas Ralph Lauren 100% Originales",
         "intro": "Lás últimas tendencias y diseños en ropa de lujo para hombres, mujeres y niños.",
-        "descripcion": "Polo Ralp Lauren es la esencia del estilo americano. Logra un equilibrio entre un estilo atemporal y moderno. Crea colecciones que expresan un sentdo único de estilo propio inspirado en la elegancia de la época de los Estados Unidos.",
+        "descripcion": "Polo Ralph Lauren es la esencia del estilo americano. Logra un equilibrio entre un estilo atemporal y moderno. Crea colecciones que expresan un sentido único de estilo propio inspirado en la elegancia de la época de los Estados Unidos.",
         "img": "/images/ralph-lauren-logo.jpg",
         "id": "0112"
     },
@@ -115,7 +115,7 @@
         "nombre": "Kappa",
         "title": "Comprar Ropa y Zapatillas Kappa 100% Originales",
         "intro": "La compañía más colorista e inconformista del mundo de la ropa deportiva con precios muy asequibles.",
-        "descripcion": "El patrimonio de Kappa es una fuente constante de inspiración para el estilo de vida comteporáneo. Con colecionnes de ropa deportiva con un estilo urbano que se podría describir como: inconformista, colorista y flexible. ",
+        "descripcion": "El patrimonio de Kappa es una fuente constante de inspiración para el estilo de vida contemporáneo. Con colecciones de ropa deportiva con un estilo urbano que se podría describir como: inconformista, colorista y flexible. ",
         "img": "/images/kappa-logo.jpg",
         "id": "0117"
     },
@@ -139,7 +139,7 @@
         "nombre": "Le Coq Sportif",
         "title": "Comprar Ropa y Zapatillas Le Coq Sportif 100% Originales",
         "intro": "La marca conocida por su característico logo del gallo, símbolo nacional de Francia, trabaja espectaculares diseños desde hace ya más de un siglo.",
-        "descripcion": "Le Coq Sportif o traducido al español 'El Gallo Deportivo' consigue combinar lo mejor de sus más de 130 años de tradición con los estilos más comteporáneos. Sus zapatillas y ropa juntan la sencillez y lo moderno siempre trabajado con materiales de una calidad superior.",
+        "descripcion": "Le Coq Sportif o traducido al español 'El Gallo Deportivo' consigue combinar lo mejor de sus más de 130 años de tradición con los estilos más contemporáneos. Sus zapatillas y ropa juntan la sencillez y lo moderno siempre trabajado con materiales de una calidad superior.",
         "img": "/images/le-coq-sportif-logo.jpg",
         "id": "0120"
     },
@@ -155,7 +155,7 @@
         "nombre": "Zapatillas de Corte Bajo Hypebeast",
         "title": "Comprar Zapatillas Corte Bajo 100% Originales",
         "intro": "Estas zapatillas son la pieza fundamental que nunca puede faltar en tu armario.",
-        "descripcion": "Los <strong>sneakers low top</strong> son las zapatillas por excenlencia, ya que consiguen la perfección por su <strong>comodidad y estilo</strong>. Otras de sus grandes virtudes es que son un calzado muy ponible que puedes combinar desde los pantalones deportivos hasta vaqueros.",
+        "descripcion": "Los <strong>sneakers low top</strong> son las zapatillas por excelencia, ya que consiguen la perfección por su <strong>comodidad y estilo</strong>. Otras de sus grandes virtudes es que son un calzado muy ponible que puedes combinar desde los pantalones deportivos hasta vaqueros.",
         "img": "/images/zapatillas-corte-bajo-hypebeast.jpg",
         "id": "0202"
     },
@@ -170,7 +170,7 @@
     {
         "nombre": "Zapatillas Retro Hypebeast",
         "title": "Comprar Zapatillas Retro 100% Originales",
-        "intro": "Para los amantes de los diseños del pasado aquí encontrarás las mejores zapatillas retro",
+        "intro": "Para los amantes de los diseños del pasado aquí encontrarás las mejores zapatillas retro.",
         "descripcion": "La moda vintage está de moda, eso lo sabemos todos, y por eso te traemos la mejor selección de sneakers retro, puedes comprar los mejores modelos del mercado disponibles y listos para tí.",
         "img": "/images/zapatillas-retro-hypebeast.jpg",
         "id": "0204"
@@ -194,15 +194,15 @@
     {
         "nombre": "Chaquetas Hypebeast",
         "title": "Comprar Chaquetas Hypebeast 100% Originales",
-        "intro": "Chaquetas y abrigos de todos los estilos, sudaderas con capucha, sudaderas más informales, nupset y muchos más entra y míralos todos.",
-        "descripcion": "Marca tu estilo y pon en tus outifts nuestras fantásticas chaquetas y abrigos hypebeast. Descubre ahora nuestra amplia variedad en hoodies, sudaderas tie dye, nupset the north face, y las mejores marcas como: Nike, Adidas, Kappa...",
+        "intro": "Chaquetas y abrigos de todos los estilos, sudaderas con capucha, sudaderas más informales, nuptse y muchos más entra y míralos todos.",
+        "descripcion": "Marca tu estilo y pon en tus outfits nuestras fantásticas chaquetas y abrigos hypebeast. Descubre ahora nuestra amplia variedad en hoodies, sudaderas tie dye, nuptse the north face, y las mejores marcas como: Nike, Adidas, Kappa...",
         "img": "/images/chaquetas-hypebeast.jpg",
         "id": "0302"
     },
     {
         "nombre": "Pantalones Hypebeast",
         "title": "Comprar Pantalones Hypebeast 100% Originales",
-        "intro": "Encuentra pantalones para cualquier ocasión desde unos patanlones de chádal hasta unos chinos o vaqueros.",
+        "intro": "Encuentra pantalones para cualquier ocasión desde unos pantalones de chándal hasta unos chinos o vaqueros.",
         "descripcion": "Descubre ahora nuestra selección de pantalones hypebeast entre los que podrás elegir entre muchos modelos y comprar pantalones con materiales de calidad.",
         "img": "/images/pantalones-hypebeast.jpg",
         "id": "0303"
@@ -219,15 +219,15 @@
         "nombre": "Bolsos y Riñoneras Hypebeast",
         "title": "Comprar Riñoneras Hypebeast 100% Originales",
         "intro": "Fantásticas riñoneras y bandoleras para complementar tus outfits",
-        "descripcion": "Las riñoneras o bandoleras además de ser un complemento muy útil para guardar el móvil, las llaves del coche o de tu casa, la cartera... y así poder liberar tus bolsillos, es un complemento estético que pueden mejorar tus outfits.",
+        "descripcion": "<strong>Las riñoneras o bandoleras</strong> además de ser un complemento muy útil para guardar el móvil, las llaves del coche o de tu casa, la cartera... y así poder liberar tus bolsillos, es un <strong>complemento estético</strong> que pueden <strong>mejorar tus outfits</strong>.",
         "img": "/images/rinoneras-hypebeast.jpg",
         "id": "0401"
     },
     {
         "nombre": "Gorras Hypebeast",
         "title": "Comprar Gorras Hypebeast 100% Originales",
-        "intro": "Descubre nuestra colección de gorras que te marcarán una diferencia en tu conjuto.",
-        "descripcion": "Amplia variedad en la que encontrarás el complemento perfecto. Gorras tanto para verano como para invierno, desde gorras más deportivas hasta gorras de piel y lana más elegantes.",
+        "intro": "Descubre nuestra colección de gorras que te marcarán una diferencia en tu conjunto.",
+        "descripcion": "Amplia variedad en la que encontrarás el <strong>complemento perfecto</strong>. Gorras tanto para verano como para invierno, desde <strong>gorras más deportivas</strong> hasta gorras de piel y lana <strong>más elegantes</strong>.",
         "img": "/images/gorras-hypebeast.jpg",
         "id": "0402"
     },
@@ -235,7 +235,7 @@
         "nombre": "Mochilas Hypebeast",
         "title": "Comprar Mochilas Hypebeast 100% Originales",
         "intro": "Entra y encuentra a tu compañera de viaje con materiales de calidad para que te siga durante todas tus aventuras.",
-        "descripcion": "Te dejamos aquí con nuestra mejor selección de mochilas para que no te falte de nada en tus viajes, cómodas de llevar que te servirán tanto para ciudad como montaña. Elige y compra entre los mejores modelos del mercado con diseños de las marcas más famosas: Nike, Adidas, GUESS, The North Face...",
+        "descripcion": "Te dejamos aquí con nuestra <strong>mejor selección de mochilas hypebeast</strong> para que no te falte de nada en tus viajes, cómodas de llevar que te servirán tanto para ciudad como montaña. Elige y compra entre <strong>los mejores modelos</strong> del mercado con diseños de las marcas más famosas: Nike, Adidas, GUESS, The North Face...",
         "img": "/images/mochilas-hypebeast.jpg",
         "id": "0405"
     }

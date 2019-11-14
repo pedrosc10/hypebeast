@@ -33,7 +33,7 @@ permalink: /{{ categoria.nombre | slug }}/index.html
                     <h1>{{ categoria.nombre }}</h1>
                 </div>
                 <div class="col text-center texto">
-                    <p>{{ categoria.descripcion }}</p>
+                    <p>{{ categoria.descripcion | safe }}</p>
                 </div>
             </div>
         </div>
