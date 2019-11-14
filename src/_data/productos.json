@@ -56,6 +56,14 @@
 
     },
     {
+        "nombre": "Cortavientos Palmeston - Azul adidas",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81uxYFGmX8L._AC_UY879_.jpg",
+        "precio": 	64.12,
+        "enlace": "https://amzn.to/2qc90t1",
+        "subcategorias": [ "0110", "0302"]
+
+    },
+    {
         "nombre": "Converse Chuck Taylor",
         "img": "https://images-na.ssl-images-amazon.com/images/I/612Z534T3vL._AC_UX695_.jpg",
         "precio": 48.52,
