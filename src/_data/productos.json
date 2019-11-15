@@ -49,9 +49,9 @@
     },
     {
         "nombre": "Chuck Taylor All Star Lift High Top",
-        "img": "",
-        "precio": 42.5,
-        "enlace": "https://amzn.to/2pZMP9x",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61XjqPXzUsL._AC_UX695_.jpg",
+        "precio": 57.91,
+        "enlace": "https://amzn.to/33OuwCF",
         "subcategorias": [ "0104", "0201"]
 
     },
@@ -165,6 +165,110 @@
         "precio":  46.95,
         "enlace": "https://amzn.to/36UncHA",
         "subcategorias": [ "0110", "0302" ]
+
+    },
+    {
+        "nombre": "Sudadera Ralph Lauren Polo Bear",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61iqFUvs%2BlL._AC_UY879_.jpg",
+        "precio":  129.95,
+        "enlace": "https://amzn.to/2NQMcI8",
+        "subcategorias": [ "0112", "0302" ]
+
+    },
+    {
+        "nombre": "Chaqueta Versace Jeans",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/613JUdzNv5L._AC_UX679_.jpg",
+        "precio":  195.00,
+        "enlace": "https://amzn.to/2CLQM4i",
+        "subcategorias": [ "0114", "0302" ]
+
+    },
+    {
+        "nombre": "Adidas Palmeston TP - Negro",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71yEJ52a9bL._AC_UY879_.jpg",
+        "precio":  75.00,
+        "enlace": "https://amzn.to/32Q6GoR",
+        "subcategorias": [ "0110", "0303" ]
+
+    },
+    {
+        "nombre": "YEEZY Calabasas Pantalón TP",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61D9B0baXrL._AC_UX679_.jpg",
+        "precio":  119.95,
+        "enlace": "https://amzn.to/377SAT0",
+        "subcategorias": [ "0110", "0303" ]
+
+    },
+    {
+        "nombre": "Adidas Palmeston TP - Azul",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61-ISZMOFwL._AC_SX679._SX._UX._SY._UY_.jpg",
+        "precio":  75.00,
+        "enlace": "https://amzn.to/2CIKgLC",
+        "subcategorias": [ "0110", "0303" ]
+
+    },
+    {
+        "nombre": "Puma Pantalones Cargo",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81saMMOpqJL._AC_SY879_.jpg",
+        "precio":  21.00,
+        "enlace": "https://amzn.to/2rOsVPh",
+        "subcategorias": [ "0118", "0303" ]
+
+    },
+    {
+        "nombre": "Puma Pantalones Cargo",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91I8kIRmssL._AC_UY879_.jpg",
+        "precio":  49.99,
+        "enlace": "https://amzn.to/2XeEx9V",
+        "subcategorias": [ "0118", "0303" ]
+
+    },
+    {
+        "nombre": "Levi’s 501 Original Fit Vaqueros",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/810rGJghPIL._AC_UY879_.jpg",
+        "precio":  69.99,
+        "enlace": "https://amzn.to/357dBLI",
+        "subcategorias": [ "0303" ]
+
+    },
+    {
+        "nombre": "Calcetines HUF",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81RICkcbKyL._AC_UY879_.jpg",
+        "precio":  11.90,
+        "enlace": "https://amzn.to/352gVb9",
+        "subcategorias": [ "0304" ]
+
+    },
+    {
+        "nombre": "3 Pares Calcetines Pinkies Nike",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/616KoU9SKOL._AC_UX679_.jpg",
+        "precio": 8.95,
+        "enlace": "https://amzn.to/2XfpEUC",
+        "subcategorias": [ "0102" , "0304" ]
+
+    },
+    {
+        "nombre": "3 Pares Calcetines Nike Jordan",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91FW5zgGIbL._AC_UX679_.jpg",
+        "precio": 14.00,
+        "enlace": "https://amzn.to/2KmeIzd",
+        "subcategorias": [ "0102" , "0304" ]
+
+    },
+    {
+        "nombre": "Riñonera Kappa Negra",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91QlwaGqBFL._AC_SY879_.jpg",
+        "precio": 27.99,
+        "enlace": "https://amzn.to/33RTfpH",
+        "subcategorias": [ "0117" , "0401" ]
+
+    },
+    {
+        "nombre": "Riñonera Kappa Verde",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61D9Yrr6fiL._AC_UY695_.jpg",
+        "precio": 29.00,
+        "enlace": "https://amzn.to/2NNdZJD",
+        "subcategorias": [ "0117" , "0401" ]
 
     }
     
