@@ -10,20 +10,20 @@ permalink: sitemap.xml
 	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 	<url>
-		<loc>{{ site.url }}</loc>
+		<loc>{{ site.url }}/</loc>
 		<lastmod>{{ page.date | date('YYYY-MM-DD') }}</lastmod>
 		<priority>1.00</priority>
 	</url>
 	{% for categoria in categorias %}
 	<url>
-		<loc>{{ site.url }}/{{categoria.nombre | slug}}</loc>
+		<loc>{{ site.url }}/{{categoria.nombre | slug}}/</loc>
 		<lastmod>{{ page.date | date('YYYY-MM-DD') }}</lastmod>
 		<priority>0.80</priority>
 	</url>
 	{% endfor %}
 		{% for subcategoria in subcategorias %}
 	<url>
-		<loc>{{ site.url }}/{{ subcategoria.id | getCategoria | slug }}/{{ subcategoria.nombre | slug }}</loc>
+		<loc>{{ site.url }}/{{ subcategoria.id | getCategoria | slug }}/{{ subcategoria.nombre | slug }}/</loc>
 		<lastmod>{{ page.date | date('YYYY-MM-DD') }}</lastmod>
 		<priority>0.70</priority>
 	</url>
