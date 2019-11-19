@@ -289,18 +289,10 @@
     },
     {
         "nombre": "Bandolera Adidas Originals Azul",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/61CcrYMCN6L._AC_UY695_.jpg",
-        "precio": 20.90,
-        "enlace": "https://amzn.to/2prSg0s",
-        "subcategorias": [ "0104" , "0401" ]
-
-    },
-    {
-        "nombre": "Bandolera Converse Cross Body",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/91o7L3wtDeL._AC_UX679_.jpg",
-        "precio": 20.90,
-        "enlace": "https://amzn.to/2prSg0s",
-        "subcategorias": [ "0104" , "0401" ]
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81hdft2KQVL._AC_SX679_.jpg",
+        "precio": 19.20,
+        "enlace": "https://amzn.to/37jsXPh",
+        "subcategorias": [ "0110" , "0401" ]
 
     },
     {
