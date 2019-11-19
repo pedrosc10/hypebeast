@@ -270,6 +270,46 @@
         "enlace": "https://amzn.to/2NNdZJD",
         "subcategorias": [ "0117" , "0401" ]
 
+    },
+    {
+        "nombre": "Sudadera con Capucha Adidas Originals Lila",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71jvhL23V3L._AC_SX679_.jpg",
+        "precio": 59.95,
+        "enlace": "https://amzn.to/359LdJ4",
+        "subcategorias": [ "0110" , "0302" ]
+
+    },
+    {
+        "nombre": "Bandolera Converse Cross Body",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91o7L3wtDeL._AC_UX679_.jpg",
+        "precio": 20.90,
+        "enlace": "https://amzn.to/2prSg0s",
+        "subcategorias": [ "0104" , "0401" ]
+
+    },
+    {
+        "nombre": "Bandolera Adidas Originals Azul",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61CcrYMCN6L._AC_UY695_.jpg",
+        "precio": 20.90,
+        "enlace": "https://amzn.to/2prSg0s",
+        "subcategorias": [ "0104" , "0401" ]
+
+    },
+    {
+        "nombre": "Bandolera Converse Cross Body",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91o7L3wtDeL._AC_UX679_.jpg",
+        "precio": 20.90,
+        "enlace": "https://amzn.to/2prSg0s",
+        "subcategorias": [ "0104" , "0401" ]
+
+    },
+    {
+        "nombre": "Bandolera Converse Cross Body",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91ePOthbckL._AC_SX695._SX._UX._SY._UY_.jpg",
+        "precio": 69.00,
+        "enlace": "https://amzn.to/33Zums9",
+        "subcategorias": [ "0101" , "0401" ]
+
     }
     
 ]

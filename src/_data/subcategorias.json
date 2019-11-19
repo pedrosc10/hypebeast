@@ -58,7 +58,7 @@
     {
         "nombre": "Balenciaga",
         "title": "Comprar Ropa y Zapatillas Balenciaga 100% Originales",
-        "intro": "Una de las firmas más prestigiosas del hypebeast con amplio catálogo en perfumería y accesorios",
+        "intro": "Una de las firmas más prestigiosas del hypebeast con amplio catálogo en perfumería y accesorios.",
         "descripcion": "La firma Balenciaga, una de las más importante de la alta costura, centrada principalmente en la gama de perfumería y accesorios: gafas de sol, perfumes, bolsos... Otro de sus productos estrella de la marca Balenciaga son sus zapatillas, ya que presentan unos diseños muy 100% originales.",
         "img": "/images/balenciaga-logo.jpg",
         "id": "0108"
@@ -115,7 +115,7 @@
         "nombre": "Kappa",
         "title": "Comprar Ropa y Zapatillas Kappa 100% Originales",
         "intro": "La compañía más colorista e inconformista del mundo de la ropa deportiva con precios muy asequibles.",
-        "descripcion": "El patrimonio de Kappa es una fuente constante de inspiración para el estilo de vida contemporáneo. Con colecciones de ropa deportiva con un estilo urbano que se podría describir como: inconformista, colorista y flexible. ",
+        "descripcion": "El patrimonio de Kappa es una fuente constante de inspiración para el estilo de vida contemporáneo. Con colecciones de ropa deportiva con un estilo urbano que se podría describir como: inconformista, colorista y flexible.",
         "img": "/images/kappa-logo.jpg",
         "id": "0117"
     },
@@ -218,7 +218,7 @@
     {
         "nombre": "Bolsos y Riñoneras Hypebeast",
         "title": "Comprar Riñoneras Hypebeast 100% Originales",
-        "intro": "Fantásticas riñoneras y bandoleras para complementar tus outfits",
+        "intro": "Fantásticas riñoneras y bandoleras para complementar tus outfits.",
         "descripcion": "<strong>Las riñoneras o bandoleras</strong> además de ser un complemento muy útil para guardar el móvil, las llaves del coche o de tu casa, la cartera... y así poder liberar tus bolsillos, es un <strong>complemento estético</strong> que pueden <strong>mejorar tus outfits</strong>.",
         "img": "/images/rinoneras-hypebeast.jpg",
         "id": "0401"
