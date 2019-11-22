@@ -3,7 +3,7 @@ pagination:
   data: categorias
   size: 1
   alias: categoria
-permalink: /{{ categoria.nombre | slug }}/index.html
+permalink: /{{ categoria.name | slug }}/index.html
 ---
 
 {% extends "layouts/default.njk" %}
@@ -12,17 +12,17 @@ permalink: /{{ categoria.nombre | slug }}/index.html
 	<meta name="description" content="{{categoria.descripcion}}">
 	<meta name="keywords" content="">
 
-	<meta property="og:url" content="https://hypebeast.pro/{{ categoria.nombre | slug}}" />
+	<meta property="og:url" content="https://hypebeast.pro/{{ categoria.name | slug}}" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="{{ categoria.title }}" />
-	<meta property="og:description" content="{{ categoria.descripcion }}" />
-	<meta property="og:image" content="https://hypebeast.pro{{ categoria.img }}" />
+	<meta property="og:title" content="{{ categoria.seo.title }}" />
+	<meta property="og:description" content="{{ categoria.seo.description }}" />
+	<meta property="og:image" content="https://hypebeast.pro{{ categoria.image.url }}" />
 
     <meta name="twitter:card"  content="summary">
-    <meta name="twitter:url" content="https://hypebeast.pro/{{ categoria.nombre | slug}}">
+    <meta name="twitter:url" content="https://hypebeast.pro/{{ categoria.name | slug}}">
     <meta name="twitter:title" content="{{ categoria.title }}">
-    <meta name="twitter:description" content="{{ categoria.descripcion }}">
-    <meta name="twitter:image" content="https://hypebeast.pro{{ categoria.img }}">
+    <meta name="twitter:description" content="{{ categoria.seo.description }}">
+    <meta name="twitter:image" content="https://hypebeast.pro{{ categoria.image.url }}">
 {% endblock %}
 {% block content %}
 
@@ -30,10 +30,10 @@ permalink: /{{ categoria.nombre | slug }}/index.html
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h1>{{ categoria.nombre }}</h1>
+                    <h1>{{ categoria.name }}</h1>
                 </div>
                 <div class="col text-center texto">
-                    <p>{{ categoria.descripcion | safe }}</p>
+                    {{ categoria.description | safe }}
                 </div>
             </div>
         </div>
@@ -41,16 +41,17 @@ permalink: /{{ categoria.nombre | slug }}/index.html
 
     <section class="categorias-n2">
         <div class="container">
-                    <div class="row">
-                        {% for subcategoria in subcategorias %}
-                        {% if (subcategoria.id.slice(0,2)) == categoria.id %}
+            <div class="row">
+                {% for subcategoria in subcategorias %}
+                    {% if subcategoria.category.name  == categoria.name %}
                         <div class="col-12 col-md-6 col-lg-4 text-center subcategoria">
-                            <a href="/{{ categoria.nombre | slug }}/{{ subcategoria.nombre | slug }}"><img src="{{ subcategoria.img }}" alt="{{subcategoria.nombre}}"></a>
-                            <h2>{{subcategoria.nombre}}</h2>
-                            <p>{{subcategoria.intro}}</p>
+                            <a href="/{{ categoria.name | slug }}/{{ subcategoria.name | slug }}"><img src="{{ subcategoria.image.url }}" alt="{{subcategoria.name}}"></a>
+                            <h2>{{subcategoria.name}}</h2>
+                            {{subcategoria.intro | safe }}
                         </div>
-                        {% endif %}            
-                        {% endfor %}
+                    {% endif %}
+                {% endfor %}
+            </div>
         </div>
     </section>
 
@@ -86,8 +87,8 @@ permalink: /{{ categoria.nombre | slug }}/index.html
             {% for item in categorias %} 
                 {% if item.nombre !=  categoria.nombre %}
                 <div class="col-12 col-md-6 col-lg-4 text-center categoria-footer">
-                    <a href="/{{item.nombre | slug}}"><img src="{{item.img}}" alt="{{item.nombre}}"></a>
-                    <h2>{{item.nombre}}</h2>
+                    <a href="/{{item.name | slug}}"><img src="{{item.image.url}}" alt="{{item.name}}"></a>
+                    <h2>{{item.name}}</h2>
                 </div>                
                 {% endif %}
             {% endfor %}

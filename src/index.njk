@@ -22,9 +22,9 @@ title: HypeBeast
             <div class="row">
                 {% for categoria in categorias %}
                     <div class="col-12 col-md-6 col-lg-6 text-center categoria">
-                        <a href="/{{ categoria.nombre | slug }}"><img src="{{ categoria.img }}" alt="{{ categoria.nombre }}"></a>
-                        <h3>{{ categoria.nombre }}</h3>
-                        <p>{{ categoria.intro }}</p>
+                        <a href="/{{ categoria.name | slug }}"><img src="{{ categoria.image.url }}" alt="{{ categoria.name }}"></a>
+                        <h3>{{ categoria.name }}</h3>
+                        {{ categoria.intro | safe }}
                     </div>                    
                 {% endfor %}
             </div>

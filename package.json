@@ -64,6 +64,7 @@
     "webpack-cli": "^3.3.6"
   },
   "dependencies": {
-    "eleventy-xml-plugin": "^0.1.0"
+    "eleventy-xml-plugin": "^0.1.0",
+    "node-fetch": "^2.6.0"
   }
 }
