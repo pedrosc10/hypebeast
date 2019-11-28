@@ -28,5 +28,19 @@ permalink: sitemap.xml
 		<priority>0.70</priority>
 	</url>
 	{% endfor %}
-
+	<url>
+		<loc>{{ site.url }}/politica-de-cookies/</loc>
+		<lastmod>{{ page.date | date('YYYY-MM-DD') }}</lastmod>
+		<priority>0.60</priority>
+	</url>
+		<url>
+		<loc>{{ site.url }}/politica-de-privacidad/</loc>
+		<lastmod>{{ page.date | date('YYYY-MM-DD') }}</lastmod>
+		<priority>0.60</priority>
+	</url>
+		<url>
+		<loc>{{ site.url }}/aviso-legal/</loc>
+		<lastmod>{{ page.date | date('YYYY-MM-DD') }}</lastmod>
+		<priority>0.60</priority>
+	</url>
 </urlset>
