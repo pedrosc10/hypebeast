@@ -65,6 +65,6 @@
   },
   "dependencies": {
     "eleventy-xml-plugin": "^0.1.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
